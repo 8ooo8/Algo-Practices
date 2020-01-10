@@ -1,0 +1,5 @@
+*.[oa]
+*.out
+*~
+.session.vim
+*.swp
