@@ -3,3 +3,5 @@
 *~
 .session.vim
 *.swp
+*.swo
+*.swn
