@@ -1,9 +1,12 @@
 *.[oa]
 
-.session.vim
 *~
-*.swp
-*.swo
+
+.session.vim
+[._]*.s[a-v][a-z]
+[._]*.sw[a-p]
+[._]s[a-v][a-z]
+[._]sw[a-p]
 
 [tT][eE][sS][tT]/
 [tT][oO][dD][oO]
