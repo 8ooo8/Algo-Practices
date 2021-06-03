@@ -27,5 +27,6 @@ _The leetcode files and this README.md are generated and managed by [vim-leetcod
 ||||[sort_v2.cpp](<[1233] Remove Sub-Folders from the Filesystem/sort_v2.cpp>)||||
 |[\[1433\] Check If a String Can Break Another String](<https://leetcode.com/problems/check-if-a-string-can-break-another-string>)|Medium|65.4%|[1433.check-if-a-string-can-break-another-string.cpp](<[1433] Check If a String Can Break Another String/1433.check-if-a-string-can-break-another-string.cpp>)||||
 |[\[883\] Projection Area of 3D Shapes](<https://leetcode.com/problems/projection-area-of-3d-shapes>)|Easy|66.8%|[883.projection-area-of-3d-shapes.cpp](<[883] Projection Area of 3D Shapes/883.projection-area-of-3d-shapes.cpp>)||||
+|[\[1351\] Count Negative Numbers in a Sorted Matrix](<https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix>)|Easy|75.6%|[1351.count-negative-numbers-in-a-sorted-matrix.js](<[1351] Count Negative Numbers in a Sorted Matrix/1351.count-negative-numbers-in-a-sorted-matrix.js>)|||Binary search|
 
 [vim-leetcode-repo]: https://github.com/8ooo8/leetcode
