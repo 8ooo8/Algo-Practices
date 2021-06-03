@@ -27,6 +27,7 @@ _The leetcode files and this README.md are generated and managed by [vim-leetcod
 ||||[sort_v2.cpp](<[1233] Remove Sub-Folders from the Filesystem/sort_v2.cpp>)||||
 |[\[1433\] Check If a String Can Break Another String](<https://leetcode.com/problems/check-if-a-string-can-break-another-string>)|Medium|65.4%|[1433.check-if-a-string-can-break-another-string.cpp](<[1433] Check If a String Can Break Another String/1433.check-if-a-string-can-break-another-string.cpp>)||||
 |[\[883\] Projection Area of 3D Shapes](<https://leetcode.com/problems/projection-area-of-3d-shapes>)|Easy|66.8%|[883.projection-area-of-3d-shapes.cpp](<[883] Projection Area of 3D Shapes/883.projection-area-of-3d-shapes.cpp>)||||
+|[\[1337\] The K Weakest Rows in a Matrix](<https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix>)|Easy|72.0%|[1337.the-k-weakest-rows-in-a-matrix.js](<[1337] The K Weakest Rows in a Matrix/1337.the-k-weakest-rows-in-a-matrix.js>)|||Binary search|
 |[\[1351\] Count Negative Numbers in a Sorted Matrix](<https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix>)|Easy|75.6%|[1351.count-negative-numbers-in-a-sorted-matrix.js](<[1351] Count Negative Numbers in a Sorted Matrix/1351.count-negative-numbers-in-a-sorted-matrix.js>)|||Binary search|
 
 [vim-leetcode-repo]: https://github.com/8ooo8/leetcode
