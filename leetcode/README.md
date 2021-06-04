@@ -29,6 +29,7 @@ _The leetcode files and this README.md are generated and managed by [vim-leetcod
 |[\[883\] Projection Area of 3D Shapes](<https://leetcode.com/problems/projection-area-of-3d-shapes>)|Easy|66.8%|[883.projection-area-of-3d-shapes.cpp](<[883] Projection Area of 3D Shapes/883.projection-area-of-3d-shapes.cpp>)||||
 |[\[852\] Peak Index in a Mountain Array](<https://leetcode.com/problems/peak-index-in-a-mountain-array>)|Easy|71.7%|[852.peak-index-in-a-mountain-array.js](<[852] Peak Index in a Mountain Array/852.peak-index-in-a-mountain-array.js>)|||Binary search|
 |[\[1337\] The K Weakest Rows in a Matrix](<https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix>)|Easy|72.0%|[1337.the-k-weakest-rows-in-a-matrix.js](<[1337] The K Weakest Rows in a Matrix/1337.the-k-weakest-rows-in-a-matrix.js>)|||Binary search|
+|[\[1460\] Make Two Arrays Equal by Reversing Sub-arrays](<https://leetcode.com/problems/make-two-arrays-equal-by-reversing-sub-arrays>)|Easy|72.3%|[1460.make-two-arrays-equal-by-reversing-sub-arrays.js](<[1460] Make Two Arrays Equal by Reversing Sub-arrays/1460.make-two-arrays-equal-by-reversing-sub-arrays.js>)|||Array|
 |[\[1351\] Count Negative Numbers in a Sorted Matrix](<https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix>)|Easy|75.6%|[1351.count-negative-numbers-in-a-sorted-matrix.js](<[1351] Count Negative Numbers in a Sorted Matrix/1351.count-negative-numbers-in-a-sorted-matrix.js>)|||Binary search|
 
 [vim-leetcode-repo]: https://github.com/8ooo8/leetcode
