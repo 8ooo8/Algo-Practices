@@ -30,6 +30,7 @@ _The leetcode files and this README.md are generated and managed by [vim-leetcod
 ||||[Trie_v2.cpp](<[1233] Remove Sub-Folders from the Filesystem/Trie_v2.cpp>)|||No waste on reading whole paths|
 ||||[sort_v2.cpp](<[1233] Remove Sub-Folders from the Filesystem/sort_v2.cpp>)||||
 |[\[1433\] Check If a String Can Break Another String](<https://leetcode.com/problems/check-if-a-string-can-break-another-string>)|Medium|65.4%|[1433.check-if-a-string-can-break-another-string.cpp](<[1433] Check If a String Can Break Another String/1433.check-if-a-string-can-break-another-string.cpp>)||||
+|[\[1025\] Divisor Game](<https://leetcode.com/problems/divisor-game>)|Easy|66.1%|[1025.divisor-game.js](<[1025] Divisor Game/1025.divisor-game.js>)|||DP|
 |[\[883\] Projection Area of 3D Shapes](<https://leetcode.com/problems/projection-area-of-3d-shapes>)|Easy|66.8%|[883.projection-area-of-3d-shapes.cpp](<[883] Projection Area of 3D Shapes/883.projection-area-of-3d-shapes.cpp>)||||
 |[\[338\] Counting Bits](<https://leetcode.com/problems/counting-bits>)|Easy|70.9%|[338.counting-bits.js](<[338] Counting Bits/338.counting-bits.js>)|||DP|
 |[\[852\] Peak Index in a Mountain Array](<https://leetcode.com/problems/peak-index-in-a-mountain-array>)|Easy|71.7%|[852.peak-index-in-a-mountain-array.js](<[852] Peak Index in a Mountain Array/852.peak-index-in-a-mountain-array.js>)|||Binary search|
