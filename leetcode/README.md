@@ -27,6 +27,7 @@ _The leetcode files and this README.md are generated and managed by [vim-leetcod
 |[\[121\] Best Time to Buy and Sell Stock](<https://leetcode.com/problems/best-time-to-buy-and-sell-stock>)|Easy|49.2%|[121.best-time-to-buy-and-sell-stock.js](<[121] Best Time to Buy and Sell Stock/121.best-time-to-buy-and-sell-stock.js>)|||DP|
 |[\[392\] Is Subsequence](<https://leetcode.com/problems/is-subsequence>)|Easy|49.7%|[392.is-subsequence.js](<[392] Is Subsequence/392.is-subsequence.js>)||||
 |[\[697\] Degree of an Array](<https://leetcode.com/problems/degree-of-an-array>)|Easy|54.7%|[697.degree-of-an-array.js](<[697] Degree of an Array/697.degree-of-an-array.js>)|||Array|
+|[\[1143\] Longest Common Subsequence](<https://leetcode.com/problems/longest-common-subsequence>)|Medium|58.8%|[1143.longest-common-subsequence.js](<[1143] Longest Common Subsequence/1143.longest-common-subsequence.js>)|||DP|
 |[\[238\] Product of Array Except Self](<https://leetcode.com/problems/product-of-array-except-self>)|Medium|58.3%|[238.product-of-array-except-self.cpp](<[238] Product of Array Except Self/238.product-of-array-except-self.cpp>)|O(n)|O(1)|DP|
 |[\[1233\] Remove Sub-Folders from the Filesystem](<https://leetcode.com/problems/remove-sub-folders-from-the-filesystem>)|Medium|59.1%|[1233.remove-sub-folders-from-the-filesystem.cpp](<[1233] Remove Sub-Folders from the Filesystem/1233.remove-sub-folders-from-the-filesystem.cpp>)||||
 ||||[Trie.cpp](<[1233] Remove Sub-Folders from the Filesystem/Trie.cpp>)|||Trie tree|
