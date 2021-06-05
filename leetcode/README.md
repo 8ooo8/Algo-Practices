@@ -26,6 +26,7 @@ _The leetcode files and this README.md are generated and managed by [vim-leetcod
 |[\[53\] Maximum Subarray](<https://leetcode.com/problems/maximum-subarray>)|Easy|48.1%|[53.maximum-subarray.js](<[53] Maximum Subarray/53.maximum-subarray.js>)|||DP (Kadane's algorithm)|
 |[\[121\] Best Time to Buy and Sell Stock](<https://leetcode.com/problems/best-time-to-buy-and-sell-stock>)|Easy|49.2%|[121.best-time-to-buy-and-sell-stock.js](<[121] Best Time to Buy and Sell Stock/121.best-time-to-buy-and-sell-stock.js>)|||DP|
 |[\[392\] Is Subsequence](<https://leetcode.com/problems/is-subsequence>)|Easy|49.7%|[392.is-subsequence.js](<[392] Is Subsequence/392.is-subsequence.js>)||||
+|[\[1092\] Shortest Common Supersequence](<https://leetcode.com/problems/shortest-common-supersequence>)|Hard|53.7%|[1092.shortest-common-supersequence.js](<[1092] Shortest Common Supersequence/1092.shortest-common-supersequence.js>)|||DP|
 |[\[697\] Degree of an Array](<https://leetcode.com/problems/degree-of-an-array>)|Easy|54.7%|[697.degree-of-an-array.js](<[697] Degree of an Array/697.degree-of-an-array.js>)|||Array|
 |[\[1143\] Longest Common Subsequence](<https://leetcode.com/problems/longest-common-subsequence>)|Medium|58.8%|[1143.longest-common-subsequence.js](<[1143] Longest Common Subsequence/1143.longest-common-subsequence.js>)|||DP|
 |[\[238\] Product of Array Except Self](<https://leetcode.com/problems/product-of-array-except-self>)|Medium|58.3%|[238.product-of-array-except-self.cpp](<[238] Product of Array Except Self/238.product-of-array-except-self.cpp>)|O(n)|O(1)|DP|
