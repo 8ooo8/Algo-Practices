@@ -32,6 +32,7 @@ _The leetcode files and this README.md are generated and managed by [vim-leetcod
 |[\[64\] Minimum Path Sum](<https://leetcode.com/problems/minimum-path-sum>)|Medium|56.9%|[64.minimum-path-sum.js](<[64] Minimum Path Sum/64.minimum-path-sum.js>)|||DP|
 |[\[1143\] Longest Common Subsequence](<https://leetcode.com/problems/longest-common-subsequence>)|Medium|58.8%|[1143.longest-common-subsequence.js](<[1143] Longest Common Subsequence/1143.longest-common-subsequence.js>)|||DP|
 |[\[238\] Product of Array Except Self](<https://leetcode.com/problems/product-of-array-except-self>)|Medium|58.3%|[238.product-of-array-except-self.cpp](<[238] Product of Array Except Self/238.product-of-array-except-self.cpp>)|O(n)|O(1)|DP|
+|[\[714\] Best Time to Buy and Sell Stock with Transaction Fee](<https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee>)|Medium|58.4%|[714.best-time-to-buy-and-sell-stock-with-transaction-fee.js](<[714] Best Time to Buy and Sell Stock with Transaction Fee/714.best-time-to-buy-and-sell-stock-with-transaction-fee.js>)|||Greedy|
 |[\[1233\] Remove Sub-Folders from the Filesystem](<https://leetcode.com/problems/remove-sub-folders-from-the-filesystem>)|Medium|59.1%|[1233.remove-sub-folders-from-the-filesystem.cpp](<[1233] Remove Sub-Folders from the Filesystem/1233.remove-sub-folders-from-the-filesystem.cpp>)||||
 ||||[Trie.cpp](<[1233] Remove Sub-Folders from the Filesystem/Trie.cpp>)|||Trie tree|
 ||||[Trie_v2.cpp](<[1233] Remove Sub-Folders from the Filesystem/Trie_v2.cpp>)|||No waste on reading whole paths|
