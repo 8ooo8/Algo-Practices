@@ -8,6 +8,7 @@ _The leetcode files and this README.md are generated and managed by [vim-leetcod
 |[\[8\] String to Integer (atoi)](<https://leetcode.com/problems/string-to-integer-atoi>)|Medium|15.0%|[8.string-to-integer-atoi.cpp](<[8] String to Integer (atoi)/8.string-to-integer-atoi.cpp>)|||Clear code|
 |[\[479\] Largest Palindrome Product](<https://leetcode.com/problems/largest-palindrome-product>)|Hard|28.2%|[479.largest-palindrome-product.cpp](<[479] Largest Palindrome Product/479.largest-palindrome-product.cpp>)|||Math solution|
 |[\[4\] Median of Two Sorted Arrays](<https://leetcode.com/problems/median-of-two-sorted-arrays>)|Hard|28.2%|[4.median-of-two-sorted-arrays.js](<[4] Median of Two Sorted Arrays/4.median-of-two-sorted-arrays.js>)|O(log(m+n))||Binary search|
+|[\[5\] Longest Palindromic Substring](<https://leetcode.com/problems/longest-palindromic-substring>)|Medium|28.6%|[5.longest-palindromic-substring.js](<[5] Longest Palindromic Substring/5.longest-palindromic-substring.js>)|||DP|
 |[\[365\] Water and Jug Problem](<https://leetcode.com/problems/water-and-jug-problem>)|Medium|29.9%|[365.water-and-jug-problem.cpp](<[365] Water and Jug Problem/365.water-and-jug-problem.cpp>)|||Math solution|
 |[\[152\] Maximum Product Subarray](<https://leetcode.com/problems/maximum-product-subarray>)|Medium|30.7%|[152.maximum-product-subarray.cpp](<[152] Maximum Product Subarray/152.maximum-product-subarray.cpp>)|O(n)|||
 ||||[dp.cpp](<[152] Maximum Product Subarray/dp.cpp>)|O(n)|||
