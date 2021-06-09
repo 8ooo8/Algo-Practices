@@ -40,6 +40,7 @@ _The leetcode files and this README.md are generated and managed by [vim-leetcod
 ||||[Trie_v2.cpp](<[1233] Remove Sub-Folders from the Filesystem/Trie_v2.cpp>)|||No waste on reading whole paths|
 ||||[sort_v2.cpp](<[1233] Remove Sub-Folders from the Filesystem/sort_v2.cpp>)||||
 |[\[983\] Minimum Cost For Tickets](<https://leetcode.com/problems/minimum-cost-for-tickets>)|Medium|62.9%|[983.minimum-cost-for-tickets.js](<[983] Minimum Cost For Tickets/983.minimum-cost-for-tickets.js>)|||DP|
+|[\[931\] Minimum Falling Path Sum](<https://leetcode.com/problems/minimum-falling-path-sum>)|Medium|64.2%|[931.minimum-falling-path-sum.js](<[931] Minimum Falling Path Sum/931.minimum-falling-path-sum.js>)|||DP|
 |[\[1433\] Check If a String Can Break Another String](<https://leetcode.com/problems/check-if-a-string-can-break-another-string>)|Medium|65.4%|[1433.check-if-a-string-can-break-another-string.cpp](<[1433] Check If a String Can Break Another String/1433.check-if-a-string-can-break-another-string.cpp>)||||
 |[\[1025\] Divisor Game](<https://leetcode.com/problems/divisor-game>)|Easy|66.1%|[1025.divisor-game.js](<[1025] Divisor Game/1025.divisor-game.js>)|||DP|
 |[\[883\] Projection Area of 3D Shapes](<https://leetcode.com/problems/projection-area-of-3d-shapes>)|Easy|66.8%|[883.projection-area-of-3d-shapes.cpp](<[883] Projection Area of 3D Shapes/883.projection-area-of-3d-shapes.cpp>)||||
