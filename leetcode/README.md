@@ -30,6 +30,7 @@ _The leetcode files and this README.md are generated and managed by [vim-leetcod
 |[\[70\] Climbing Stairs](<https://leetcode.com/problems/climbing-stairs>)|Easy|48.9%|[70.climbing-stairs.js](<[70] Climbing Stairs/70.climbing-stairs.js>)|||DP|
 |[\[121\] Best Time to Buy and Sell Stock](<https://leetcode.com/problems/best-time-to-buy-and-sell-stock>)|Easy|49.2%|[121.best-time-to-buy-and-sell-stock.js](<[121] Best Time to Buy and Sell Stock/121.best-time-to-buy-and-sell-stock.js>)|||DP|
 |[\[392\] Is Subsequence](<https://leetcode.com/problems/is-subsequence>)|Easy|49.7%|[392.is-subsequence.js](<[392] Is Subsequence/392.is-subsequence.js>)||||
+|[\[200\] Number of Islands](<https://leetcode.com/problems/number-of-islands>)|Medium|50.2%|[200.number-of-islands.js](<[200] Number of Islands/200.number-of-islands.js>)|||DFS|
 |[\[236\] Lowest Common Ancestor of a Binary Tree](<https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree>)|Medium|50.1%|[236.lowest-common-ancestor-of-a-binary-tree.js](<[236] Lowest Common Ancestor of a Binary Tree/236.lowest-common-ancestor-of-a-binary-tree.js>)|||DFS|
 |[\[650\] 2 Keys Keyboard](<https://leetcode.com/problems/2-keys-keyboard>)|Medium|50.5%|[650.2-keys-keyboard.js](<[650] 2 Keys Keyboard/650.2-keys-keyboard.js>)|||DP|
 |[\[718\] Maximum Length of Repeated Subarray](<https://leetcode.com/problems/maximum-length-of-repeated-subarray>)|Medium|50.8%|[718.maximum-length-of-repeated-subarray.js](<[718] Maximum Length of Repeated Subarray/718.maximum-length-of-repeated-subarray.js>)|||DP|
