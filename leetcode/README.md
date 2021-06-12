@@ -25,6 +25,7 @@ _The leetcode files and this README.md are generated and managed by [vim-leetcod
 |[\[234\] Palindrome Linked List](<https://leetcode.com/problems/palindrome-linked-list>)|Easy|42.7%|[234.palindrome-linked-list.js](<[234] Palindrome Linked List/234.palindrome-linked-list.js>)|||Linked list|
 |[\[35\] Search Insert Position](<https://leetcode.com/problems/search-insert-position>)|Easy|42.7%|[35.search-insert-position.cpp](<[35] Search Insert Position/35.search-insert-position.cpp>)|O(logn)||Binary serach|
 |[\[147\] Insertion Sort List](<https://leetcode.com/problems/insertion-sort-list>)|Medium|45.0%|[147.insertion-sort-list.js](<[147] Insertion Sort List/147.insertion-sort-list.js>)|||linked list|
+|[\[679\] 24 Game](<https://leetcode.com/problems/24-game>)|Hard|47.5%|[679.24-game.js](<[679] 24 Game/679.24-game.js>)|||DFS|
 |[\[688\] Knight Probability in Chessboard](<https://leetcode.com/problems/knight-probability-in-chessboard>)|Medium|47.0%|[688.knight-probability-in-chessboard.cpp](<[688] Knight Probability in Chessboard/688.knight-probability-in-chessboard.cpp>)|O((N^2)K)||DP|
 |[\[53\] Maximum Subarray](<https://leetcode.com/problems/maximum-subarray>)|Easy|48.1%|[53.maximum-subarray.js](<[53] Maximum Subarray/53.maximum-subarray.js>)|||DP (Kadane's algorithm)|
 |[\[70\] Climbing Stairs](<https://leetcode.com/problems/climbing-stairs>)|Easy|48.9%|[70.climbing-stairs.js](<[70] Climbing Stairs/70.climbing-stairs.js>)|||DP|
