@@ -25,6 +25,7 @@ _The leetcode files and this README.md are generated and managed by [vim-leetcod
 |[\[315\] Count of Smaller Numbers After Self](<https://leetcode.com/problems/count-of-smaller-numbers-after-self>)|Hard|41.4%|[315.count-of-smaller-numbers-after-self.cpp](<[315] Count of Smaller Numbers After Self/315.count-of-smaller-numbers-after-self.cpp>)|||BST|
 |[\[234\] Palindrome Linked List](<https://leetcode.com/problems/palindrome-linked-list>)|Easy|42.7%|[234.palindrome-linked-list.js](<[234] Palindrome Linked List/234.palindrome-linked-list.js>)|||Linked list|
 |[\[35\] Search Insert Position](<https://leetcode.com/problems/search-insert-position>)|Easy|42.7%|[35.search-insert-position.cpp](<[35] Search Insert Position/35.search-insert-position.cpp>)|O(logn)||Binary serach|
+|[\[264\] Ugly Number II](<https://leetcode.com/problems/ugly-number-ii>)|Medium|43.2%|[264.ugly-number-ii.js](<[264] Ugly Number II/264.ugly-number-ii.js>)|||DP|
 |[\[147\] Insertion Sort List](<https://leetcode.com/problems/insertion-sort-list>)|Medium|45.0%|[147.insertion-sort-list.js](<[147] Insertion Sort List/147.insertion-sort-list.js>)|||linked list|
 |[\[679\] 24 Game](<https://leetcode.com/problems/24-game>)|Hard|47.5%|[679.24-game.js](<[679] 24 Game/679.24-game.js>)|||DFS|
 |[\[688\] Knight Probability in Chessboard](<https://leetcode.com/problems/knight-probability-in-chessboard>)|Medium|47.0%|[688.knight-probability-in-chessboard.cpp](<[688] Knight Probability in Chessboard/688.knight-probability-in-chessboard.cpp>)|O((N^2)K)||DP|

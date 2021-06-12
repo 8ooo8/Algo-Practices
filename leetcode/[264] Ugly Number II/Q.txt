@@ -1,0 +1,41 @@
+[264] Ugly Number II  
+
+https://leetcode.com/problems/ugly-number-ii/description/
+
+* algorithms
+* Medium (43.20%)
+* Likes:    2701
+* Dislikes: 163
+* Total Accepted:    210K
+* Total Submissions: 485.7K
+* Testcase Example:  '10'
+* Source Code:       /Users/MeoWow/Documents/__CAREER__/__Git__/algo-practices/leetcode/[264] Ugly Number II/264.ugly-number-ii.js
+
+An ugly number is a positive integer whose prime factors are limited to 2, 3, and 5.
+
+Given an integer n, return the nth ugly number.
+
+ 
+Example 1:
+
+
+Input: n = 10
+Output: 12
+Explanation: [1, 2, 3, 4, 5, 6, 8, 9, 10, 12] is the sequence of the first 10 ugly numbers.
+
+
+Example 2:
+
+
+Input: n = 1
+Output: 1
+Explanation: 1 has no prime factors, therefore all of its prime factors are limited to 2, 3, and 5.
+
+
+ 
+Constraints:
+
+
+	1 <= n <= 1690
+
+
