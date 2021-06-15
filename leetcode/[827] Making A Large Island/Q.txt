@@ -1,0 +1,52 @@
+[827] Making A Large Island  
+
+https://leetcode.com/problems/making-a-large-island/description/
+
+* algorithms
+* Hard (46.93%)
+* Likes:    833
+* Dislikes: 23
+* Total Accepted:    37.1K
+* Total Submissions: 79.2K
+* Testcase Example:  '[[1,0],[0,1]]'
+* Source Code:       /Users/MeoWow/Documents/__CAREER__/__Git__/algo-practices/leetcode/[827] Making A Large Island/827.making-a-large-island.js
+
+You are given an n x n binary matrix grid. You are allowed to change at most one 0 to be 1.
+
+Return the size of the largest island in grid after applying this operation.
+
+An island is a 4-directionally connected group of 1s.
+
+ 
+Example 1:
+
+
+Input: grid = [[1,0],[0,1]]
+Output: 3
+Explanation: Change one 0 to 1 and connect two 1s, then we get an island with area = 3.
+
+
+Example 2:
+
+
+Input: grid = [[1,1],[1,0]]
+Output: 4
+Explanation: Change the 0 to 1 and make the island bigger, only one island with area = 4.
+
+Example 3:
+
+
+Input: grid = [[1,1],[1,1]]
+Output: 4
+Explanation: Can't change any 0 to 1, only one island with area = 4.
+
+
+ 
+Constraints:
+
+
+	n == grid.length
+	n == grid[i].length
+	1 <= n <= 500
+	grid[i][j] is either 0 or 1.
+
