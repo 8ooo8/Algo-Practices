@@ -54,6 +54,7 @@ _The leetcode files and this README.md are generated and managed by [vim-leetcod
 ||||[Trie_v2.cpp](<[1233] Remove Sub-Folders from the Filesystem/Trie_v2.cpp>)|||No waste on reading whole paths|
 ||||[sort_v2.cpp](<[1233] Remove Sub-Folders from the Filesystem/sort_v2.cpp>)||||
 |[\[547\] Number of Provinces](<https://leetcode.com/problems/number-of-provinces>)|Medium|61.1%|[547.number-of-provinces.js](<[547] Number of Provinces/547.number-of-provinces.js>)|||DFS|
+|[\[515\] Find Largest Value in Each Tree Row](<https://leetcode.com/problems/find-largest-value-in-each-tree-row>)|Medium|62.7%|[515.find-largest-value-in-each-tree-row.js](<[515] Find Largest Value in Each Tree Row/515.find-largest-value-in-each-tree-row.js>)|||BFS|
 |[\[983\] Minimum Cost For Tickets](<https://leetcode.com/problems/minimum-cost-for-tickets>)|Medium|62.9%|[983.minimum-cost-for-tickets.js](<[983] Minimum Cost For Tickets/983.minimum-cost-for-tickets.js>)|||DP|
 |[\[104\] Maximum Depth of Binary Tree](<https://leetcode.com/problems/maximum-depth-of-binary-tree>)|Easy|63.7%|[104.maximum-depth-of-binary-tree.js](<[104] Maximum Depth of Binary Tree/104.maximum-depth-of-binary-tree.js>)|||DFS|
 |[\[513\] Find Bottom Left Tree Value](<https://leetcode.com/problems/find-bottom-left-tree-value>)|Medium|63.1%|[513.find-bottom-left-tree-value.js](<[513] Find Bottom Left Tree Value/513.find-bottom-left-tree-value.js>)|||BFS|

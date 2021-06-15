@@ -1,0 +1,61 @@
+[515] Find Largest Value in Each Tree Row  
+
+https://leetcode.com/problems/find-largest-value-in-each-tree-row/description/
+
+* algorithms
+* Medium (62.70%)
+* Likes:    1394
+* Dislikes: 73
+* Total Accepted:    141.1K
+* Total Submissions: 224.8K
+* Testcase Example:  '[1,3,2,5,3,null,9]'
+* Source Code:       /Users/MeoWow/Documents/__CAREER__/__Git__/algo-practices/leetcode/[515] Find Largest Value in Each Tree Row/515.find-largest-value-in-each-tree-row.js
+
+Given the root of a binary tree, return an array of the largest value in each row of the tree (0-indexed).
+
+ 
+
+ 
+Example 1:
+
+
+Input: root = [1,3,2,5,3,null,9]
+Output: [1,3,9]
+
+
+Example 2:
+
+
+Input: root = [1,2,3]
+Output: [1,3]
+
+
+Example 3:
+
+
+Input: root = [1]
+Output: [1]
+
+
+Example 4:
+
+
+Input: root = [1,null,2]
+Output: [1,2]
+
+
+Example 5:
+
+
+Input: root = []
+Output: []
+
+
+ 
+Constraints:
+
+
+	The number of nodes in the tree will be in the range [0, 104].
+	-231 <= Node.val <= 231 - 1
+
+
