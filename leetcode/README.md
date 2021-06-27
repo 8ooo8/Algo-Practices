@@ -6,6 +6,7 @@ _The leetcode files and this README.md are generated and managed by [vim-leetcod
 |-|-|-|-|-|-|-|
 |[\[65\] Valid Number](<https://leetcode.com/problems/valid-number>)|Hard|14.7%|[65.valid-number.cpp](<[65] Valid Number/65.valid-number.cpp>)|||Clear code|
 |[\[8\] String to Integer (atoi)](<https://leetcode.com/problems/string-to-integer-atoi>)|Medium|15.0%|[8.string-to-integer-atoi.cpp](<[8] String to Integer (atoi)/8.string-to-integer-atoi.cpp>)|||Clear code|
+|[\[15\] 3Sum](<https://leetcode.com/problems/3sum>)|Medium|25.6%|[15.3sum.js](<[15] 3Sum/15.3sum.js>)|||O(n^2)|
 |[\[479\] Largest Palindrome Product](<https://leetcode.com/problems/largest-palindrome-product>)|Hard|28.2%|[479.largest-palindrome-product.cpp](<[479] Largest Palindrome Product/479.largest-palindrome-product.cpp>)|||Math solution|
 |[\[4\] Median of Two Sorted Arrays](<https://leetcode.com/problems/median-of-two-sorted-arrays>)|Hard|28.2%|[4.median-of-two-sorted-arrays.js](<[4] Median of Two Sorted Arrays/4.median-of-two-sorted-arrays.js>)|O(log(m+n))||Binary search|
 |[\[5\] Longest Palindromic Substring](<https://leetcode.com/problems/longest-palindromic-substring>)|Medium|28.6%|[5.longest-palindromic-substring.js](<[5] Longest Palindromic Substring/5.longest-palindromic-substring.js>)|||DP|
