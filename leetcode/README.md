@@ -47,6 +47,7 @@ _The leetcode files and this README.md are generated and managed by [vim-leetcod
 |[\[236\] Lowest Common Ancestor of a Binary Tree](<https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree>)|Medium|50.1%|[236.lowest-common-ancestor-of-a-binary-tree.js](<[236] Lowest Common Ancestor of a Binary Tree/236.lowest-common-ancestor-of-a-binary-tree.js>)|||DFS|
 |[\[650\] 2 Keys Keyboard](<https://leetcode.com/problems/2-keys-keyboard>)|Medium|50.5%|[650.2-keys-keyboard.js](<[650] 2 Keys Keyboard/650.2-keys-keyboard.js>)|||DP|
 |[\[718\] Maximum Length of Repeated Subarray](<https://leetcode.com/problems/maximum-length-of-repeated-subarray>)|Medium|50.8%|[718.maximum-length-of-repeated-subarray.js](<[718] Maximum Length of Repeated Subarray/718.maximum-length-of-repeated-subarray.js>)|||DP|
+||||[revision.js](<[718] Maximum Length of Repeated Subarray/revision.js>)|||DP|
 |[\[202\] Happy Number](<https://leetcode.com/problems/happy-number>)|Easy|51.6%|[202.happy-number.js](<[202] Happy Number/202.happy-number.js>)||||
 |[\[746\] Min Cost Climbing Stairs](<https://leetcode.com/problems/min-cost-climbing-stairs>)|Easy|51.8%|[746.min-cost-climbing-stairs.js](<[746] Min Cost Climbing Stairs/746.min-cost-climbing-stairs.js>)|||DP|
 |[\[813\] Largest Sum of Averages](<https://leetcode.com/problems/largest-sum-of-averages>)|Medium|51.4%|[813.largest-sum-of-averages.js](<[813] Largest Sum of Averages/813.largest-sum-of-averages.js>)||||
