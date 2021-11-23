@@ -7,7 +7,9 @@ _The leetcode files and this README.md are generated and managed by [vim-leetcod
 |[\[65\] Valid Number](<https://leetcode.com/problems/valid-number>)|Hard|14.7%|[65.valid-number.cpp](<[65] Valid Number/65.valid-number.cpp>)|||Clear code|
 |[\[8\] String to Integer (atoi)](<https://leetcode.com/problems/string-to-integer-atoi>)|Medium|15.0%|[8.string-to-integer-atoi.cpp](<[8] String to Integer (atoi)/8.string-to-integer-atoi.cpp>)|||Clear code|
 |[\[15\] 3Sum](<https://leetcode.com/problems/3sum>)|Medium|25.6%|[15.3sum.js](<[15] 3Sum/15.3sum.js>)|||O(n^2)|
+||||[revision.java](<[15] 3Sum/revision.java>)||||
 |[\[479\] Largest Palindrome Product](<https://leetcode.com/problems/largest-palindrome-product>)|Hard|28.2%|[479.largest-palindrome-product.cpp](<[479] Largest Palindrome Product/479.largest-palindrome-product.cpp>)|||Math solution|
+|[\[493\] Reverse Pairs](<https://leetcode.com/problems/reverse-pairs>)|Hard|28.4%|[493.reverse-pairs.java](<[493] Reverse Pairs/493.reverse-pairs.java>)||||
 |[\[4\] Median of Two Sorted Arrays](<https://leetcode.com/problems/median-of-two-sorted-arrays>)|Hard|28.2%|[4.median-of-two-sorted-arrays.js](<[4] Median of Two Sorted Arrays/4.median-of-two-sorted-arrays.js>)|O(log(m+n))||Binary search|
 |[\[5\] Longest Palindromic Substring](<https://leetcode.com/problems/longest-palindromic-substring>)|Medium|28.6%|[5.longest-palindromic-substring.js](<[5] Longest Palindromic Substring/5.longest-palindromic-substring.js>)|||DP|
 |[\[365\] Water and Jug Problem](<https://leetcode.com/problems/water-and-jug-problem>)|Medium|29.9%|[365.water-and-jug-problem.cpp](<[365] Water and Jug Problem/365.water-and-jug-problem.cpp>)|||Math solution|
@@ -25,6 +27,7 @@ _The leetcode files and this README.md are generated and managed by [vim-leetcod
 |[\[837\] New 21 Game](<https://leetcode.com/problems/new-21-game>)|Medium|35.7%|[837.new-21-game.js](<[837] New 21 Game/837.new-21-game.js>)|||DP|
 |[\[189\] Rotate Array](<https://leetcode.com/problems/rotate-array>)|Medium|36.9%|[189.rotate-array.js](<[189] Rotate Array/189.rotate-array.js>)|O(n)|O(1)|Array|
 |[\[34\] Find First and Last Position of Element in Sorted Array](<https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array>)|Medium|36.1%|[34.find-first-and-last-position-of-element-in-sorted-array.cpp](<[34] Find First and Last Position of Element in Sorted Array/34.find-first-and-last-position-of-element-in-sorted-array.cpp>)|O(logn)||Binary search|
+|[\[14\] Longest Common Prefix](<https://leetcode.com/problems/longest-common-prefix>)|Easy|37.5%|[14.longest-common-prefix.java](<[14] Longest Common Prefix/14.longest-common-prefix.java>)||||
 |[\[473\] Matchsticks to Square](<https://leetcode.com/problems/matchsticks-to-square>)|Medium|38.5%|[473.matchsticks-to-square.js](<[473] Matchsticks to Square/473.matchsticks-to-square.js>)|||DFS|
 |[\[879\] Profitable Schemes](<https://leetcode.com/problems/profitable-schemes>)|Hard|38.2%|[879.profitable-schemes.cpp](<[879] Profitable Schemes/879.profitable-schemes.cpp>)|O(crimeNum\*P\*G)|O(P*G)|DP|
 |[\[263\] Ugly Number](<https://leetcode.com/problems/ugly-number>)|Easy|41.7%|[263.ugly-number.js](<[263] Ugly Number/263.ugly-number.js>)||||
@@ -51,6 +54,7 @@ _The leetcode files and this README.md are generated and managed by [vim-leetcod
 |[\[202\] Happy Number](<https://leetcode.com/problems/happy-number>)|Easy|51.6%|[202.happy-number.js](<[202] Happy Number/202.happy-number.js>)||||
 |[\[746\] Min Cost Climbing Stairs](<https://leetcode.com/problems/min-cost-climbing-stairs>)|Easy|51.8%|[746.min-cost-climbing-stairs.js](<[746] Min Cost Climbing Stairs/746.min-cost-climbing-stairs.js>)|||DP|
 |[\[813\] Largest Sum of Averages](<https://leetcode.com/problems/largest-sum-of-averages>)|Medium|51.4%|[813.largest-sum-of-averages.js](<[813] Largest Sum of Averages/813.largest-sum-of-averages.js>)||||
+|[\[598\] Range Addition II](<https://leetcode.com/problems/range-addition-ii>)|Easy|52.8%|[598.range-addition-ii.java](<[598] Range Addition II/598.range-addition-ii.java>)||||
 |[\[1092\] Shortest Common Supersequence](<https://leetcode.com/problems/shortest-common-supersequence>)|Hard|53.7%|[1092.shortest-common-supersequence.js](<[1092] Shortest Common Supersequence/1092.shortest-common-supersequence.js>)|||DP|
 |[\[1405\] Longest Happy String](<https://leetcode.com/problems/longest-happy-string>)|Medium|53.1%|[1405.longest-happy-string.cpp](<[1405] Longest Happy String/1405.longest-happy-string.cpp>)|||Max heap|
 |[\[1410\] HTML Entity Parser](<https://leetcode.com/problems/html-entity-parser>)|Medium|53.6%|[1410.html-entity-parser.js](<[1410] HTML Entity Parser/1410.html-entity-parser.js>)||||
@@ -62,15 +66,17 @@ _The leetcode files and this README.md are generated and managed by [vim-leetcod
 |[\[1319\] Number of Operations to Make Network Connected](<https://leetcode.com/problems/number-of-operations-to-make-network-connected>)|Medium|55.5%|[1319.number-of-operations-to-make-network-connected.js](<[1319] Number of Operations to Make Network Connected/1319.number-of-operations-to-make-network-connected.js>)|||Disjoint set|
 ||||[revision.js](<[1319] Number of Operations to Make Network Connected/revision.js>)|||Disjoint set|
 |[\[756\] Pyramid Transition Matrix](<https://leetcode.com/problems/pyramid-transition-matrix>)|Medium|55.9%|[756.pyramid-transition-matrix.js](<[756] Pyramid Transition Matrix/756.pyramid-transition-matrix.js>)|||DFS|
+|[\[565\] Array Nesting](<https://leetcode.com/problems/array-nesting>)|Medium|56.4%|[565.array-nesting.java](<[565] Array Nesting/565.array-nesting.java>)||||
 |[\[64\] Minimum Path Sum](<https://leetcode.com/problems/minimum-path-sum>)|Medium|56.9%|[64.minimum-path-sum.js](<[64] Minimum Path Sum/64.minimum-path-sum.js>)|||DP|
+|[\[378\] Kth Smallest Element in a Sorted Matrix](<https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix>)|Medium|57.2%|[378.kth-smallest-element-in-a-sorted-matrix.cpp](<[378] Kth Smallest Element in a Sorted Matrix/378.kth-smallest-element-in-a-sorted-matrix.cpp>)||||
 |[\[1143\] Longest Common Subsequence](<https://leetcode.com/problems/longest-common-subsequence>)|Medium|58.8%|[1143.longest-common-subsequence.js](<[1143] Longest Common Subsequence/1143.longest-common-subsequence.js>)|||DP|
 |[\[238\] Product of Array Except Self](<https://leetcode.com/problems/product-of-array-except-self>)|Medium|58.3%|[238.product-of-array-except-self.cpp](<[238] Product of Array Except Self/238.product-of-array-except-self.cpp>)|O(n)|O(1)|DP|
 |[\[714\] Best Time to Buy and Sell Stock with Transaction Fee](<https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee>)|Medium|58.4%|[714.best-time-to-buy-and-sell-stock-with-transaction-fee.js](<[714] Best Time to Buy and Sell Stock with Transaction Fee/714.best-time-to-buy-and-sell-stock-with-transaction-fee.js>)|||Greedy|
 |[\[122\] Best Time to Buy and Sell Stock II](<https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii>)|Easy|59.3%|[122.best-time-to-buy-and-sell-stock-ii.js](<[122] Best Time to Buy and Sell Stock II/122.best-time-to-buy-and-sell-stock-ii.js>)||||
 |[\[1233\] Remove Sub-Folders from the Filesystem](<https://leetcode.com/problems/remove-sub-folders-from-the-filesystem>)|Medium|59.1%|[1233.remove-sub-folders-from-the-filesystem.cpp](<[1233] Remove Sub-Folders from the Filesystem/1233.remove-sub-folders-from-the-filesystem.cpp>)||||
+||||[sort_v2.cpp](<[1233] Remove Sub-Folders from the Filesystem/sort_v2.cpp>)||||
 ||||[Trie.cpp](<[1233] Remove Sub-Folders from the Filesystem/Trie.cpp>)|||Trie tree|
 ||||[Trie_v2.cpp](<[1233] Remove Sub-Folders from the Filesystem/Trie_v2.cpp>)|||No waste on reading whole paths|
-||||[sort_v2.cpp](<[1233] Remove Sub-Folders from the Filesystem/sort_v2.cpp>)||||
 |[\[547\] Number of Provinces](<https://leetcode.com/problems/number-of-provinces>)|Medium|61.1%|[547.number-of-provinces.js](<[547] Number of Provinces/547.number-of-provinces.js>)|||DFS|
 |[\[566\] Reshape the Matrix](<https://leetcode.com/problems/reshape-the-matrix>)|Easy|61.1%|[566.reshape-the-matrix.js](<[566] Reshape the Matrix/566.reshape-the-matrix.js>)||||
 |[\[515\] Find Largest Value in Each Tree Row](<https://leetcode.com/problems/find-largest-value-in-each-tree-row>)|Medium|62.7%|[515.find-largest-value-in-each-tree-row.js](<[515] Find Largest Value in Each Tree Row/515.find-largest-value-in-each-tree-row.js>)|||BFS|
