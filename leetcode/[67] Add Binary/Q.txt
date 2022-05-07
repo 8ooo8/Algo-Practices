@@ -1,0 +1,32 @@
+[67] Add Binary  
+
+https://leetcode.com/problems/add-binary/description/
+
+* algorithms
+* Easy (49.21%)
+* Likes:    4252
+* Dislikes: 479
+* Total Accepted:    751K
+* Total Submissions: 1.5M
+* Testcase Example:  '"11"\n"1"'
+* Source Code:       /Users/MeoWow/Documents/_CAREER_/_git_/algo-practices/leetcode/[67] Add Binary/67.add-binary.js
+
+Given two binary strings a and b, return their sum as a binary string.
+
+ 
+Example 1:
+Input: a = "11", b = "1"
+Output: "100"
+Example 2:
+Input: a = "1010", b = "1011"
+Output: "10101"
+
+ 
+Constraints:
+
+
+	1 <= a.length, b.length <= 104
+	a and b consist only of '0' or '1' characters.
+	Each string does not contain leading zeros except for the zero itself.
+
+

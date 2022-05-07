@@ -1,0 +1,42 @@
+[876] Middle of the Linked List  
+
+https://leetcode.com/problems/middle-of-the-linked-list/description/
+
+* algorithms
+* Easy (69.91%)
+* Likes:    4150
+* Dislikes: 105
+* Total Accepted:    496.2K
+* Total Submissions: 693.7K
+* Testcase Example:  '[1,2,3,4,5]'
+* Source Code:       /Users/MeoWow/Documents/_CAREER_/_git_/algo-practices/leetcode/[876] Middle of the Linked List/876.middle-of-the-linked-list.java
+
+Given the head of a singly linked list, return the middle node of the linked list.
+
+If there are two middle nodes, return the second middle node.
+
+ 
+Example 1:
+
+
+Input: head = [1,2,3,4,5]
+Output: [3,4,5]
+Explanation: The middle node of the list is node 3.
+
+
+Example 2:
+
+
+Input: head = [1,2,3,4,5,6]
+Output: [4,5,6]
+Explanation: Since the list has two middle nodes with values 3 and 4, we return the second one.
+
+
+ 
+Constraints:
+
+
+	The number of nodes in the list is in the range [1, 100].
+	1 <= Node.val <= 100
+
+
