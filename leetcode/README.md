@@ -50,6 +50,7 @@ _The leetcode files and this README.md are generated and managed by [vim-leetcod
 |[\[679\] 24 Game](<https://leetcode.com/problems/24-game>)|Hard|47.5%|[679.24-game.js](<[679] 24 Game/679.24-game.js>)|||DFS|
 |[\[688\] Knight Probability in Chessboard](<https://leetcode.com/problems/knight-probability-in-chessboard>)|Medium|47.0%|[688.knight-probability-in-chessboard.cpp](<[688] Knight Probability in Chessboard/688.knight-probability-in-chessboard.cpp>)|O((N^2)K)||DP|
 |[\[844\] Backspace String Compare](<https://leetcode.com/problems/backspace-string-compare>)|Easy|47.5%|[844.backspace-string-compare.java](<[844] Backspace String Compare/844.backspace-string-compare.java>)||||
+|[\[1\] Two Sum](<https://leetcode.com/problems/two-sum>)|Easy|48.0%|[1.two-sum.java](<[1] Two Sum/1.two-sum.java>)|||Hashing|
 |[\[53\] Maximum Subarray](<https://leetcode.com/problems/maximum-subarray>)|Easy|48.1%|[53.maximum-subarray.js](<[53] Maximum Subarray/53.maximum-subarray.js>)|||DP (Kadane's algorithm)|
 ||||[revision.js](<[53] Maximum Subarray/revision.js>)||||
 |[\[70\] Climbing Stairs](<https://leetcode.com/problems/climbing-stairs>)|Easy|48.9%|[70.climbing-stairs.js](<[70] Climbing Stairs/70.climbing-stairs.js>)|||DP|
@@ -88,8 +89,10 @@ _The leetcode files and this README.md are generated and managed by [vim-leetcod
 |[\[1209\] Remove All Adjacent Duplicates in String II](<https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii>)|Medium|56.2%|[1209.remove-all-adjacent-duplicates-in-string-ii.java](<[1209] Remove All Adjacent Duplicates in String II/1209.remove-all-adjacent-duplicates-in-string-ii.java>)|||Stack|
 |[\[565\] Array Nesting](<https://leetcode.com/problems/array-nesting>)|Medium|56.4%|[565.array-nesting.java](<[565] Array Nesting/565.array-nesting.java>)||||
 |[\[64\] Minimum Path Sum](<https://leetcode.com/problems/minimum-path-sum>)|Medium|56.9%|[64.minimum-path-sum.js](<[64] Minimum Path Sum/64.minimum-path-sum.js>)|||DP|
+|[\[341\] Flatten Nested List Iterator](<https://leetcode.com/problems/flatten-nested-list-iterator>)|Medium|57.9%|[341.flatten-nested-list-iterator.java](<[341] Flatten Nested List Iterator/341.flatten-nested-list-iterator.java>)|||Deque + recursion|
 |[\[378\] Kth Smallest Element in a Sorted Matrix](<https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix>)|Medium|57.2%|[378.kth-smallest-element-in-a-sorted-matrix.cpp](<[378] Kth Smallest Element in a Sorted Matrix/378.kth-smallest-element-in-a-sorted-matrix.cpp>)||||
 |[\[1143\] Longest Common Subsequence](<https://leetcode.com/problems/longest-common-subsequence>)|Medium|58.8%|[1143.longest-common-subsequence.js](<[1143] Longest Common Subsequence/1143.longest-common-subsequence.js>)|||DP|
+||||[revision.java](<[1143] Longest Common Subsequence/revision.java>)||||
 |[\[238\] Product of Array Except Self](<https://leetcode.com/problems/product-of-array-except-self>)|Medium|58.3%|[238.product-of-array-except-self.cpp](<[238] Product of Array Except Self/238.product-of-array-except-self.cpp>)|O(n)|O(1)|DP|
 |[\[714\] Best Time to Buy and Sell Stock with Transaction Fee](<https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee>)|Medium|58.4%|[714.best-time-to-buy-and-sell-stock-with-transaction-fee.js](<[714] Best Time to Buy and Sell Stock with Transaction Fee/714.best-time-to-buy-and-sell-stock-with-transaction-fee.js>)|||Greedy|
 |[\[122\] Best Time to Buy and Sell Stock II](<https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii>)|Easy|59.3%|[122.best-time-to-buy-and-sell-stock-ii.js](<[122] Best Time to Buy and Sell Stock II/122.best-time-to-buy-and-sell-stock-ii.js>)||||
@@ -97,12 +100,16 @@ _The leetcode files and this README.md are generated and managed by [vim-leetcod
 ||||[sort_v2.cpp](<[1233] Remove Sub-Folders from the Filesystem/sort_v2.cpp>)||||
 ||||[Trie.cpp](<[1233] Remove Sub-Folders from the Filesystem/Trie.cpp>)|||Trie tree|
 ||||[Trie_v2.cpp](<[1233] Remove Sub-Folders from the Filesystem/Trie_v2.cpp>)|||No waste on reading whole paths|
+|[\[217\] Contains Duplicate](<https://leetcode.com/problems/contains-duplicate>)|Easy|59.7%|[217.contains-duplicate.java](<[217] Contains Duplicate/217.contains-duplicate.java>)|||Hashing|
+|[\[242\] Valid Anagram](<https://leetcode.com/problems/valid-anagram>)|Easy|60.6%|[242.valid-anagram.java](<[242] Valid Anagram/242.valid-anagram.java>)|||Sort|
+||||[hash.java](<[242] Valid Anagram/hash.java>)|||Hashing|
 |[\[289\] Game of Life](<https://leetcode.com/problems/game-of-life>)|Medium|61.7%|[289.game-of-life.js](<[289] Game of Life/289.game-of-life.js>)||||
 |[\[547\] Number of Provinces](<https://leetcode.com/problems/number-of-provinces>)|Medium|61.1%|[547.number-of-provinces.js](<[547] Number of Provinces/547.number-of-provinces.js>)|||DFS|
 |[\[566\] Reshape the Matrix](<https://leetcode.com/problems/reshape-the-matrix>)|Easy|61.1%|[566.reshape-the-matrix.js](<[566] Reshape the Matrix/566.reshape-the-matrix.js>)||||
 |[\[59\] Spiral Matrix II](<https://leetcode.com/problems/spiral-matrix-ii>)|Medium|61.1%|[59.spiral-matrix-ii.js](<[59] Spiral Matrix II/59.spiral-matrix-ii.js>)||||
 |[\[1046\] Last Stone Weight](<https://leetcode.com/problems/last-stone-weight>)|Easy|62.9%|[1046.last-stone-weight.cpp](<[1046] Last Stone Weight/1046.last-stone-weight.cpp>)||||
 |[\[1260\] Shift 2D Grid](<https://leetcode.com/problems/shift-2d-grid>)|Easy|62.2%|[1260.shift-2d-grid.js](<[1260] Shift 2D Grid/1260.shift-2d-grid.js>)||||
+|[\[49\] Group Anagrams](<https://leetcode.com/problems/group-anagrams>)|Medium|62.9%|[49.group-anagrams.java](<[49] Group Anagrams/49.group-anagrams.java>)|||Hashing + sort|
 |[\[515\] Find Largest Value in Each Tree Row](<https://leetcode.com/problems/find-largest-value-in-each-tree-row>)|Medium|62.7%|[515.find-largest-value-in-each-tree-row.js](<[515] Find Largest Value in Each Tree Row/515.find-largest-value-in-each-tree-row.js>)|||BFS|
 ||||[revision.java](<[515] Find Largest Value in Each Tree Row/revision.java>)||||
 |[\[983\] Minimum Cost For Tickets](<https://leetcode.com/problems/minimum-cost-for-tickets>)|Medium|62.9%|[983.minimum-cost-for-tickets.js](<[983] Minimum Cost For Tickets/983.minimum-cost-for-tickets.js>)|||DP|
@@ -119,7 +126,7 @@ _The leetcode files and this README.md are generated and managed by [vim-leetcod
 |[\[1025\] Divisor Game](<https://leetcode.com/problems/divisor-game>)|Easy|66.1%|[1025.divisor-game.js](<[1025] Divisor Game/1025.divisor-game.js>)|||DP|
 |[\[883\] Projection Area of 3D Shapes](<https://leetcode.com/problems/projection-area-of-3d-shapes>)|Easy|66.8%|[883.projection-area-of-3d-shapes.cpp](<[883] Projection Area of 3D Shapes/883.projection-area-of-3d-shapes.cpp>)||||
 |[\[1338\] Reduce Array Size to The Half](<https://leetcode.com/problems/reduce-array-size-to-the-half>)|Medium|67.7%|[1338.reduce-array-size-to-the-half.js](<[1338] Reduce Array Size to The Half/1338.reduce-array-size-to-the-half.js>)|||Greedy|
-||||[hashTable+greedy.js](<[1338] Reduce Array Size to The Half/hashTable+greedy.js>)|||Hash table + Greedy|
+||||[hashTable+greedy.js](<[1338] Reduce Array Size to The Half/hashTable+greedy.js>)|||Hashing + Greedy|
 |[\[1043\] Partition Array for Maximum Sum](<https://leetcode.com/problems/partition-array-for-maximum-sum>)|Medium|68.0%|[1043.partition-array-for-maximum-sum.js](<[1043] Partition Array for Maximum Sum/1043.partition-array-for-maximum-sum.js>)||||
 |[\[682\] Baseball Game](<https://leetcode.com/problems/baseball-game>)|Easy|68.9%|[682.baseball-game.cpp](<[682] Baseball Game/682.baseball-game.cpp>)||||
 ||||[682.baseball-game.js](<[682] Baseball Game/682.baseball-game.js>)||||
