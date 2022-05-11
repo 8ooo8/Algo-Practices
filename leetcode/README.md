@@ -15,7 +15,7 @@ _The leetcode files and this README.md are generated and managed by [vim-leetcod
 |[\[365\] Water and Jug Problem](<https://leetcode.com/problems/water-and-jug-problem>)|Medium|29.9%|[365.water-and-jug-problem.cpp](<[365] Water and Jug Problem/365.water-and-jug-problem.cpp>)|||Math solution|
 |[\[152\] Maximum Product Subarray](<https://leetcode.com/problems/maximum-product-subarray>)|Medium|30.7%|[152.maximum-product-subarray.cpp](<[152] Maximum Product Subarray/152.maximum-product-subarray.cpp>)|O(n)|||
 ||||[dp.cpp](<[152] Maximum Product Subarray/dp.cpp>)|O(n)|||
-|[\[1616\] Split Two Strings to Make Palindrome](<https://leetcode.com/problems/split-two-strings-to-make-palindrome>)|Medium|30.6%|[1616.split-two-strings-to-make-palindrome.js](<[1616] Split Two Strings to Make Palindrome/1616.split-two-strings-to-make-palindrome.js>)|||Sliding window|
+|[\[1616\] Split Two Strings to Make Palindrome](<https://leetcode.com/problems/split-two-strings-to-make-palindrome>)|Medium|30.6%|[1616.split-two-strings-to-make-palindrome.js](<[1616] Split Two Strings to Make Palindrome/1616.split-two-strings-to-make-palindrome.js>)|||2-pointers|
 ||||[approach-2.js](<[1616] Split Two Strings to Make Palindrome/approach-2.js>)||||
 |[\[456\] 132 Pattern](<https://leetcode.com/problems/132-pattern>)|Medium|30.8%|[456.132-pattern.java](<[456] 132 Pattern/456.132-pattern.java>)|O(n)||Stack|
 |[\[127\] Word Ladder](<https://leetcode.com/problems/word-ladder>)|Hard|32.6%|[127.word-ladder.js](<[127] Word Ladder/127.word-ladder.js>)|||BFS|
@@ -35,12 +35,14 @@ _The leetcode files and this README.md are generated and managed by [vim-leetcod
 |[\[473\] Matchsticks to Square](<https://leetcode.com/problems/matchsticks-to-square>)|Medium|38.5%|[473.matchsticks-to-square.js](<[473] Matchsticks to Square/473.matchsticks-to-square.js>)|||DFS|
 ||||[revision.java](<[473] Matchsticks to Square/revision.java>)||||
 |[\[879\] Profitable Schemes](<https://leetcode.com/problems/profitable-schemes>)|Hard|38.2%|[879.profitable-schemes.cpp](<[879] Profitable Schemes/879.profitable-schemes.cpp>)|O(crimeNum\*P\*G)|O(P*G)|DP|
+|[\[125\] Valid Palindrome](<https://leetcode.com/problems/valid-palindrome>)|Easy|40.4%|[125.valid-palindrome.java](<[125] Valid Palindrome/125.valid-palindrome.java>)||||
+||||[2-pointers.java](<[125] Valid Palindrome/2-pointers.java>)|||2-pointers|
 |[\[263\] Ugly Number](<https://leetcode.com/problems/ugly-number>)|Easy|41.7%|[263.ugly-number.js](<[263] Ugly Number/263.ugly-number.js>)||||
 |[\[315\] Count of Smaller Numbers After Self](<https://leetcode.com/problems/count-of-smaller-numbers-after-self>)|Hard|41.4%|[315.count-of-smaller-numbers-after-self.cpp](<[315] Count of Smaller Numbers After Self/315.count-of-smaller-numbers-after-self.cpp>)|||BST|
 |[\[923\] 3Sum With Multiplicity](<https://leetcode.com/problems/3sum-with-multiplicity>)|Medium|41.3%|[923.3sum-with-multiplicity.js](<[923] 3Sum With Multiplicity/923.3sum-with-multiplicity.js>)||||
 |[\[234\] Palindrome Linked List](<https://leetcode.com/problems/palindrome-linked-list>)|Easy|42.7%|[234.palindrome-linked-list.js](<[234] Palindrome Linked List/234.palindrome-linked-list.js>)|||Linked list|
 |[\[35\] Search Insert Position](<https://leetcode.com/problems/search-insert-position>)|Easy|42.7%|[35.search-insert-position.cpp](<[35] Search Insert Position/35.search-insert-position.cpp>)|O(logn)||Binary serach|
-|[\[658\] Find K Closest Elements](<https://leetcode.com/problems/find-k-closest-elements>)|Medium|42.7%|[658.find-k-closest-elements.js](<[658] Find K Closest Elements/658.find-k-closest-elements.js>)|||Binary search + sliding window|
+|[\[658\] Find K Closest Elements](<https://leetcode.com/problems/find-k-closest-elements>)|Medium|42.7%|[658.find-k-closest-elements.js](<[658] Find K Closest Elements/658.find-k-closest-elements.js>)|||Binary search + 2-pointers|
 |[\[88\] Merge Sorted Array](<https://leetcode.com/problems/merge-sorted-array>)|Easy|42.7%|[88.merge-sorted-array.js](<[88] Merge Sorted Array/88.merge-sorted-array.js>)||||
 |[\[1187\] Make Array Strictly Increasing](<https://leetcode.com/problems/make-array-strictly-increasing>)|Hard|43.1%|[1187.make-array-strictly-increasing.js](<[1187] Make Array Strictly Increasing/1187.make-array-strictly-increasing.js>)|||DP|
 |[\[264\] Ugly Number II](<https://leetcode.com/problems/ugly-number-ii>)|Medium|43.2%|[264.ugly-number-ii.js](<[264] Ugly Number II/264.ugly-number-ii.js>)|||DP|
@@ -50,6 +52,7 @@ _The leetcode files and this README.md are generated and managed by [vim-leetcod
 |[\[679\] 24 Game](<https://leetcode.com/problems/24-game>)|Hard|47.5%|[679.24-game.js](<[679] 24 Game/679.24-game.js>)|||DFS|
 |[\[688\] Knight Probability in Chessboard](<https://leetcode.com/problems/knight-probability-in-chessboard>)|Medium|47.0%|[688.knight-probability-in-chessboard.cpp](<[688] Knight Probability in Chessboard/688.knight-probability-in-chessboard.cpp>)|O((N^2)K)||DP|
 |[\[844\] Backspace String Compare](<https://leetcode.com/problems/backspace-string-compare>)|Easy|47.5%|[844.backspace-string-compare.java](<[844] Backspace String Compare/844.backspace-string-compare.java>)||||
+|[\[128\] Longest Consecutive Sequence](<https://leetcode.com/problems/longest-consecutive-sequence>)|Medium|48.3%|[128.longest-consecutive-sequence.java](<[128] Longest Consecutive Sequence/128.longest-consecutive-sequence.java>)|||Hashing|
 |[\[1\] Two Sum](<https://leetcode.com/problems/two-sum>)|Easy|48.0%|[1.two-sum.java](<[1] Two Sum/1.two-sum.java>)|||Hashing|
 |[\[53\] Maximum Subarray](<https://leetcode.com/problems/maximum-subarray>)|Easy|48.1%|[53.maximum-subarray.js](<[53] Maximum Subarray/53.maximum-subarray.js>)|||DP (Kadane's algorithm)|
 ||||[revision.js](<[53] Maximum Subarray/revision.js>)||||
@@ -91,6 +94,7 @@ _The leetcode files and this README.md are generated and managed by [vim-leetcod
 |[\[1209\] Remove All Adjacent Duplicates in String II](<https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii>)|Medium|56.2%|[1209.remove-all-adjacent-duplicates-in-string-ii.java](<[1209] Remove All Adjacent Duplicates in String II/1209.remove-all-adjacent-duplicates-in-string-ii.java>)|||Stack|
 |[\[565\] Array Nesting](<https://leetcode.com/problems/array-nesting>)|Medium|56.4%|[565.array-nesting.java](<[565] Array Nesting/565.array-nesting.java>)||||
 |[\[64\] Minimum Path Sum](<https://leetcode.com/problems/minimum-path-sum>)|Medium|56.9%|[64.minimum-path-sum.js](<[64] Minimum Path Sum/64.minimum-path-sum.js>)|||DP|
+|[\[167\] Two Sum II - Input Array Is Sorted](<https://leetcode.com/problems/two-sum-ii-input-array-is-sorted>)|Easy|57.8%|[167.two-sum-ii-input-array-is-sorted.java](<[167] Two Sum II - Input Array Is Sorted/167.two-sum-ii-input-array-is-sorted.java>)|||2-pointers|
 |[\[341\] Flatten Nested List Iterator](<https://leetcode.com/problems/flatten-nested-list-iterator>)|Medium|57.9%|[341.flatten-nested-list-iterator.java](<[341] Flatten Nested List Iterator/341.flatten-nested-list-iterator.java>)|||Deque + recursion|
 |[\[378\] Kth Smallest Element in a Sorted Matrix](<https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix>)|Medium|57.2%|[378.kth-smallest-element-in-a-sorted-matrix.cpp](<[378] Kth Smallest Element in a Sorted Matrix/378.kth-smallest-element-in-a-sorted-matrix.cpp>)||||
 |[\[1143\] Longest Common Subsequence](<https://leetcode.com/problems/longest-common-subsequence>)|Medium|58.8%|[1143.longest-common-subsequence.js](<[1143] Longest Common Subsequence/1143.longest-common-subsequence.js>)|||DP|
