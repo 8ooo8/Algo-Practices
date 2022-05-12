@@ -26,9 +26,5 @@ class Solution {
         }
         return new ArrayList<>(result);
     }
-
-    private void _2sum(int[] sortedNums, int p1, int p2, List<List<Integer>> result) {
-        
-    }
 }
 // @lc code=end

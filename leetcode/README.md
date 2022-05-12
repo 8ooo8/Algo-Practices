@@ -7,6 +7,7 @@ _The leetcode files and this README.md are generated and managed by [vim-leetcod
 |[\[65\] Valid Number](<https://leetcode.com/problems/valid-number>)|Hard|14.7%|[65.valid-number.cpp](<[65] Valid Number/65.valid-number.cpp>)|||Clear code|
 |[\[8\] String to Integer (atoi)](<https://leetcode.com/problems/string-to-integer-atoi>)|Medium|15.0%|[8.string-to-integer-atoi.cpp](<[8] String to Integer (atoi)/8.string-to-integer-atoi.cpp>)|||Clear code|
 |[\[15\] 3Sum](<https://leetcode.com/problems/3sum>)|Medium|25.6%|[15.3sum.js](<[15] 3Sum/15.3sum.js>)|||O(n^2)|
+||||[revision-2.java](<[15] 3Sum/revision-2.java>)||||
 ||||[revision.java](<[15] 3Sum/revision.java>)||||
 |[\[479\] Largest Palindrome Product](<https://leetcode.com/problems/largest-palindrome-product>)|Hard|28.2%|[479.largest-palindrome-product.cpp](<[479] Largest Palindrome Product/479.largest-palindrome-product.cpp>)|||Math solution|
 |[\[493\] Reverse Pairs](<https://leetcode.com/problems/reverse-pairs>)|Hard|28.4%|[493.reverse-pairs.java](<[493] Reverse Pairs/493.reverse-pairs.java>)||||
@@ -73,10 +74,12 @@ _The leetcode files and this README.md are generated and managed by [vim-leetcod
 |[\[746\] Min Cost Climbing Stairs](<https://leetcode.com/problems/min-cost-climbing-stairs>)|Easy|51.8%|[746.min-cost-climbing-stairs.js](<[746] Min Cost Climbing Stairs/746.min-cost-climbing-stairs.js>)|||DP|
 |[\[813\] Largest Sum of Averages](<https://leetcode.com/problems/largest-sum-of-averages>)|Medium|51.4%|[813.largest-sum-of-averages.js](<[813] Largest Sum of Averages/813.largest-sum-of-averages.js>)||||
 |[\[17\] Letter Combinations of a Phone Number](<https://leetcode.com/problems/letter-combinations-of-a-phone-number>)|Medium|52.5%|[17.letter-combinations-of-a-phone-number.java](<[17] Letter Combinations of a Phone Number/17.letter-combinations-of-a-phone-number.java>)|||DFS|
+|[\[47\] Permutations II](<https://leetcode.com/problems/permutations-ii>)|Medium|52.8%|[47.permutations-ii.java](<[47] Permutations II/47.permutations-ii.java>)|||Hashing. Made to be perform better for a large amount of numbers.|
 |[\[598\] Range Addition II](<https://leetcode.com/problems/range-addition-ii>)|Easy|52.8%|[598.range-addition-ii.java](<[598] Range Addition II/598.range-addition-ii.java>)||||
 |[\[703\] Kth Largest Element in a Stream](<https://leetcode.com/problems/kth-largest-element-in-a-stream>)|Easy|52.3%|[703.kth-largest-element-in-a-stream.cpp](<[703] Kth Largest Element in a Stream/703.kth-largest-element-in-a-stream.cpp>)||||
 |[\[1092\] Shortest Common Supersequence](<https://leetcode.com/problems/shortest-common-supersequence>)|Hard|53.7%|[1092.shortest-common-supersequence.js](<[1092] Shortest Common Supersequence/1092.shortest-common-supersequence.js>)|||DP|
-|[\[11\] Container With Most Water](<https://leetcode.com/problems/container-with-most-water>)|Medium|53.2%|[11.container-with-most-water.js](<[11] Container With Most Water/11.container-with-most-water.js>)||||
+|[\[11\] Container With Most Water](<https://leetcode.com/problems/container-with-most-water>)|Medium|53.2%|[11.container-with-most-water.js](<[11] Container With Most Water/11.container-with-most-water.js>)|||2-pointers|
+||||[revision.java](<[11] Container With Most Water/revision.java>)|||2-pointers|
 |[\[1405\] Longest Happy String](<https://leetcode.com/problems/longest-happy-string>)|Medium|53.1%|[1405.longest-happy-string.cpp](<[1405] Longest Happy String/1405.longest-happy-string.cpp>)|||Max heap|
 ||||[revision.java](<[1405] Longest Happy String/revision.java>)||||
 |[\[1410\] HTML Entity Parser](<https://leetcode.com/problems/html-entity-parser>)|Medium|53.6%|[1410.html-entity-parser.js](<[1410] HTML Entity Parser/1410.html-entity-parser.js>)||||
