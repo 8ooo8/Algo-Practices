@@ -164,6 +164,7 @@ _The leetcode files and this README.md are generated and managed by [vim-leetcod
 ||||[revision.java](<[1641] Count Sorted Vowel Strings/revision.java>)|||DP|
 |[\[938\] Range Sum of BST](<https://leetcode.com/problems/range-sum-of-bst>)|Easy|83.4%|[938.range-sum-of-bst.js](<[938] Range Sum of BST/938.range-sum-of-bst.js>)|||DFS|
 |[\[1302\] Deepest Leaves Sum](<https://leetcode.com/problems/deepest-leaves-sum>)|Medium|85.4%|[1302.deepest-leaves-sum.js](<[1302] Deepest Leaves Sum/1302.deepest-leaves-sum.js>)|||DFS|
+||||[revision.java](<[1302] Deepest Leaves Sum/revision.java>)|||BFS|
 |[\[1365\] How Many Numbers Are Smaller Than the Current Number](<https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number>)|Easy|86.0%|[1365.how-many-numbers-are-smaller-than-the-current-number.js](<[1365] How Many Numbers Are Smaller Than the Current Number/1365.how-many-numbers-are-smaller-than-the-current-number.js>)|||Array|
 |[\[1512\] Number of Good Pairs](<https://leetcode.com/problems/number-of-good-pairs>)|Easy|87.6%|[1512.number-of-good-pairs.js](<[1512] Number of Good Pairs/1512.number-of-good-pairs.js>)|||Array|
 |[\[1480\] Running Sum of 1d Array](<https://leetcode.com/problems/running-sum-of-1d-array>)|Easy|88.9%|[1480.running-sum-of-1d-array.js](<[1480] Running Sum of 1d Array/1480.running-sum-of-1d-array.js>)|||Array|
