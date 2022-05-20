@@ -40,6 +40,7 @@ _The leetcode files and this README.md are generated and managed by [vim-leetcod
 |[\[879\] Profitable Schemes](<https://leetcode.com/problems/profitable-schemes>)|Hard|38.2%|[879.profitable-schemes.cpp](<[879] Profitable Schemes/879.profitable-schemes.cpp>)|O(crimeNum\*P\*G)|O(P*G)|DP|
 |[\[125\] Valid Palindrome](<https://leetcode.com/problems/valid-palindrome>)|Easy|40.4%|[125.valid-palindrome.java](<[125] Valid Palindrome/125.valid-palindrome.java>)||||
 ||||[2-pointers.java](<[125] Valid Palindrome/2-pointers.java>)|||2-pointers|
+|[\[20\] Valid Parentheses](<https://leetcode.com/problems/valid-parentheses>)|Easy|40.6%|[20.valid-parentheses.java](<[20] Valid Parentheses/20.valid-parentheses.java>)|||Stack|
 |[\[1091\] Shortest Path in Binary Matrix](<https://leetcode.com/problems/shortest-path-in-binary-matrix>)|Medium|41.7%|[1091.shortest-path-in-binary-matrix.java](<[1091] Shortest Path in Binary Matrix/1091.shortest-path-in-binary-matrix.java>)|||BFS|
 |[\[263\] Ugly Number](<https://leetcode.com/problems/ugly-number>)|Easy|41.7%|[263.ugly-number.js](<[263] Ugly Number/263.ugly-number.js>)||||
 |[\[315\] Count of Smaller Numbers After Self](<https://leetcode.com/problems/count-of-smaller-numbers-after-self>)|Hard|41.4%|[315.count-of-smaller-numbers-after-self.cpp](<[315] Count of Smaller Numbers After Self/315.count-of-smaller-numbers-after-self.cpp>)|||BST|
