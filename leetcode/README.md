@@ -20,6 +20,7 @@ _The leetcode files and this README.md are generated and managed by [vim-leetcod
 ||||[approach-2.js](<[1616] Split Two Strings to Make Palindrome/approach-2.js>)||||
 |[\[456\] 132 Pattern](<https://leetcode.com/problems/132-pattern>)|Medium|30.8%|[456.132-pattern.java](<[456] 132 Pattern/456.132-pattern.java>)|O(n)||Stack|
 |[\[127\] Word Ladder](<https://leetcode.com/problems/word-ladder>)|Hard|32.6%|[127.word-ladder.js](<[127] Word Ladder/127.word-ladder.js>)|||BFS|
+|[\[3\] Longest Substring Without Repeating Characters](<https://leetcode.com/problems/longest-substring-without-repeating-characters>)|Medium|32.6%|[3.longest-substring-without-repeating-characters.java](<[3] Longest Substring Without Repeating Characters/3.longest-substring-without-repeating-characters.java>)|||Sliding window|
 |[\[218\] The Skyline Problem](<https://leetcode.com/problems/the-skyline-problem>)|Hard|33.2%|[218.the-skyline-problem.cpp](<[218] The Skyline Problem/218.the-skyline-problem.cpp>)|O(nlogn)|||
 |[\[322\] Coin Change](<https://leetcode.com/problems/coin-change>)|Medium|33.4%|[322.coin-change.js](<[322] Coin Change/322.coin-change.js>)|||DP|
 |[\[581\] Shortest Unsorted Continuous Subarray](<https://leetcode.com/problems/shortest-unsorted-continuous-subarray>)|Medium|33.8%|[581.shortest-unsorted-continuous-subarray.java](<[581] Shortest Unsorted Continuous Subarray/581.shortest-unsorted-continuous-subarray.java>)||||
@@ -30,6 +31,7 @@ _The leetcode files and this README.md are generated and managed by [vim-leetcod
 |[\[837\] New 21 Game](<https://leetcode.com/problems/new-21-game>)|Medium|35.7%|[837.new-21-game.js](<[837] New 21 Game/837.new-21-game.js>)|||DP|
 |[\[189\] Rotate Array](<https://leetcode.com/problems/rotate-array>)|Medium|36.9%|[189.rotate-array.js](<[189] Rotate Array/189.rotate-array.js>)|O(n)|O(1)|Array|
 |[\[34\] Find First and Last Position of Element in Sorted Array](<https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array>)|Medium|36.1%|[34.find-first-and-last-position-of-element-in-sorted-array.cpp](<[34] Find First and Last Position of Element in Sorted Array/34.find-first-and-last-position-of-element-in-sorted-array.cpp>)|O(logn)||Binary search|
+|[\[63\] Unique Paths II](<https://leetcode.com/problems/unique-paths-ii>)|Medium|36.9%|[63.unique-paths-ii.java](<[63] Unique Paths II/63.unique-paths-ii.java>)|||DP|
 |[\[952\] Largest Component Size by Common Factor](<https://leetcode.com/problems/largest-component-size-by-common-factor>)|Hard|36.7%|[952.largest-component-size-by-common-factor.java](<[952] Largest Component Size by Common Factor/952.largest-component-size-by-common-factor.java>)||||
 |[\[14\] Longest Common Prefix](<https://leetcode.com/problems/longest-common-prefix>)|Easy|37.5%|[14.longest-common-prefix.java](<[14] Longest Common Prefix/14.longest-common-prefix.java>)||||
 |[\[71\] Simplify Path](<https://leetcode.com/problems/simplify-path>)|Medium|37.0%|[71.simplify-path.js](<[71] Simplify Path/71.simplify-path.js>)||||
@@ -38,6 +40,7 @@ _The leetcode files and this README.md are generated and managed by [vim-leetcod
 |[\[879\] Profitable Schemes](<https://leetcode.com/problems/profitable-schemes>)|Hard|38.2%|[879.profitable-schemes.cpp](<[879] Profitable Schemes/879.profitable-schemes.cpp>)|O(crimeNum\*P\*G)|O(P*G)|DP|
 |[\[125\] Valid Palindrome](<https://leetcode.com/problems/valid-palindrome>)|Easy|40.4%|[125.valid-palindrome.java](<[125] Valid Palindrome/125.valid-palindrome.java>)||||
 ||||[2-pointers.java](<[125] Valid Palindrome/2-pointers.java>)|||2-pointers|
+|[\[1091\] Shortest Path in Binary Matrix](<https://leetcode.com/problems/shortest-path-in-binary-matrix>)|Medium|41.7%|[1091.shortest-path-in-binary-matrix.java](<[1091] Shortest Path in Binary Matrix/1091.shortest-path-in-binary-matrix.java>)|||BFS|
 |[\[263\] Ugly Number](<https://leetcode.com/problems/ugly-number>)|Easy|41.7%|[263.ugly-number.js](<[263] Ugly Number/263.ugly-number.js>)||||
 |[\[315\] Count of Smaller Numbers After Self](<https://leetcode.com/problems/count-of-smaller-numbers-after-self>)|Hard|41.4%|[315.count-of-smaller-numbers-after-self.cpp](<[315] Count of Smaller Numbers After Self/315.count-of-smaller-numbers-after-self.cpp>)|||BST|
 |[\[923\] 3Sum With Multiplicity](<https://leetcode.com/problems/3sum-with-multiplicity>)|Medium|41.3%|[923.3sum-with-multiplicity.js](<[923] 3Sum With Multiplicity/923.3sum-with-multiplicity.js>)||||
@@ -47,6 +50,7 @@ _The leetcode files and this README.md are generated and managed by [vim-leetcod
 |[\[88\] Merge Sorted Array](<https://leetcode.com/problems/merge-sorted-array>)|Easy|42.7%|[88.merge-sorted-array.js](<[88] Merge Sorted Array/88.merge-sorted-array.js>)||||
 |[\[1187\] Make Array Strictly Increasing](<https://leetcode.com/problems/make-array-strictly-increasing>)|Hard|43.1%|[1187.make-array-strictly-increasing.js](<[1187] Make Array Strictly Increasing/1187.make-array-strictly-increasing.js>)|||DP|
 |[\[264\] Ugly Number II](<https://leetcode.com/problems/ugly-number-ii>)|Medium|43.2%|[264.ugly-number-ii.js](<[264] Ugly Number II/264.ugly-number-ii.js>)|||DP|
+|[\[567\] Permutation in String](<https://leetcode.com/problems/permutation-in-string>)|Medium|44.2%|[567.permutation-in-string.java](<[567] Permutation in String/567.permutation-in-string.java>)|||Sliding window + bitwise|
 |[\[117\] Populating Next Right Pointers in Each Node II](<https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii>)|Medium|45.2%|[117.populating-next-right-pointers-in-each-node-ii.java](<[117] Populating Next Right Pointers in Each Node II/117.populating-next-right-pointers-in-each-node-ii.java>)|||BFS|
 |[\[147\] Insertion Sort List](<https://leetcode.com/problems/insertion-sort-list>)|Medium|45.0%|[147.insertion-sort-list.js](<[147] Insertion Sort List/147.insertion-sort-list.js>)|||linked list|
 |[\[827\] Making A Large Island](<https://leetcode.com/problems/making-a-large-island>)|Hard|46.9%|[827.making-a-large-island.js](<[827] Making A Large Island/827.making-a-large-island.js>)|||DFS|
@@ -57,15 +61,18 @@ _The leetcode files and this README.md are generated and managed by [vim-leetcod
 |[\[844\] Backspace String Compare](<https://leetcode.com/problems/backspace-string-compare>)|Easy|47.5%|[844.backspace-string-compare.java](<[844] Backspace String Compare/844.backspace-string-compare.java>)||||
 |[\[128\] Longest Consecutive Sequence](<https://leetcode.com/problems/longest-consecutive-sequence>)|Medium|48.3%|[128.longest-consecutive-sequence.java](<[128] Longest Consecutive Sequence/128.longest-consecutive-sequence.java>)|||Hashing|
 |[\[1\] Two Sum](<https://leetcode.com/problems/two-sum>)|Easy|48.0%|[1.two-sum.java](<[1] Two Sum/1.two-sum.java>)|||Hashing|
+|[\[329\] Longest Increasing Path in a Matrix](<https://leetcode.com/problems/longest-increasing-path-in-a-matrix>)|Hard|48.7%|[329.longest-increasing-path-in-a-matrix.java](<[329] Longest Increasing Path in a Matrix/329.longest-increasing-path-in-a-matrix.java>)|||DFS|
 |[\[53\] Maximum Subarray](<https://leetcode.com/problems/maximum-subarray>)|Easy|48.1%|[53.maximum-subarray.js](<[53] Maximum Subarray/53.maximum-subarray.js>)|||DP (Kadane's algorithm)|
 ||||[revision.js](<[53] Maximum Subarray/revision.js>)||||
 |[\[70\] Climbing Stairs](<https://leetcode.com/problems/climbing-stairs>)|Easy|48.9%|[70.climbing-stairs.js](<[70] Climbing Stairs/70.climbing-stairs.js>)|||DP|
 |[\[121\] Best Time to Buy and Sell Stock](<https://leetcode.com/problems/best-time-to-buy-and-sell-stock>)|Easy|49.2%|[121.best-time-to-buy-and-sell-stock.js](<[121] Best Time to Buy and Sell Stock/121.best-time-to-buy-and-sell-stock.js>)|||DP|
+||||[revision.java](<[121] Best Time to Buy and Sell Stock/revision.java>)||||
 |[\[392\] Is Subsequence](<https://leetcode.com/problems/is-subsequence>)|Easy|49.7%|[392.is-subsequence.js](<[392] Is Subsequence/392.is-subsequence.js>)||||
 |[\[67\] Add Binary](<https://leetcode.com/problems/add-binary>)|Easy|49.2%|[67.add-binary.js](<[67] Add Binary/67.add-binary.js>)||||
 |[\[200\] Number of Islands](<https://leetcode.com/problems/number-of-islands>)|Medium|50.2%|[200.number-of-islands.js](<[200] Number of Islands/200.number-of-islands.js>)|||DFS|
 ||||[revision.java](<[200] Number of Islands/revision.java>)||||
 |[\[236\] Lowest Common Ancestor of a Binary Tree](<https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree>)|Medium|50.1%|[236.lowest-common-ancestor-of-a-binary-tree.js](<[236] Lowest Common Ancestor of a Binary Tree/236.lowest-common-ancestor-of-a-binary-tree.js>)|||DFS|
+|[\[424\] Longest Repeating Character Replacement](<https://leetcode.com/problems/longest-repeating-character-replacement>)|Medium|50.1%|[424.longest-repeating-character-replacement.java](<[424] Longest Repeating Character Replacement/424.longest-repeating-character-replacement.java>)|||Sliding window|
 |[\[650\] 2 Keys Keyboard](<https://leetcode.com/problems/2-keys-keyboard>)|Medium|50.5%|[650.2-keys-keyboard.js](<[650] 2 Keys Keyboard/650.2-keys-keyboard.js>)|||DP|
 |[\[718\] Maximum Length of Repeated Subarray](<https://leetcode.com/problems/maximum-length-of-repeated-subarray>)|Medium|50.8%|[718.maximum-length-of-repeated-subarray.js](<[718] Maximum Length of Repeated Subarray/718.maximum-length-of-repeated-subarray.js>)|||DP|
 ||||[revision.js](<[718] Maximum Length of Repeated Subarray/revision.js>)|||DP|
@@ -75,6 +82,7 @@ _The leetcode files and this README.md are generated and managed by [vim-leetcod
 |[\[225\] Implement Stack using Queues](<https://leetcode.com/problems/implement-stack-using-queues>)|Easy|51.1%|[225.implement-stack-using-queues.java](<[225] Implement Stack using Queues/225.implement-stack-using-queues.java>)||||
 |[\[746\] Min Cost Climbing Stairs](<https://leetcode.com/problems/min-cost-climbing-stairs>)|Easy|51.8%|[746.min-cost-climbing-stairs.js](<[746] Min Cost Climbing Stairs/746.min-cost-climbing-stairs.js>)|||DP|
 |[\[813\] Largest Sum of Averages](<https://leetcode.com/problems/largest-sum-of-averages>)|Medium|51.4%|[813.largest-sum-of-averages.js](<[813] Largest Sum of Averages/813.largest-sum-of-averages.js>)||||
+|[\[1192\] Critical Connections in a Network](<https://leetcode.com/problems/critical-connections-in-a-network>)|Hard|52.0%|[1192.critical-connections-in-a-network.java](<[1192] Critical Connections in a Network/1192.critical-connections-in-a-network.java>)|||DFS|
 |[\[17\] Letter Combinations of a Phone Number](<https://leetcode.com/problems/letter-combinations-of-a-phone-number>)|Medium|52.5%|[17.letter-combinations-of-a-phone-number.java](<[17] Letter Combinations of a Phone Number/17.letter-combinations-of-a-phone-number.java>)|||DFS|
 |[\[47\] Permutations II](<https://leetcode.com/problems/permutations-ii>)|Medium|52.8%|[47.permutations-ii.java](<[47] Permutations II/47.permutations-ii.java>)|||Hashing. Made to be perform better for a large amount of numbers.|
 |[\[598\] Range Addition II](<https://leetcode.com/problems/range-addition-ii>)|Easy|52.8%|[598.range-addition-ii.java](<[598] Range Addition II/598.range-addition-ii.java>)||||
@@ -95,9 +103,10 @@ _The leetcode files and this README.md are generated and managed by [vim-leetcod
 |[\[783\] Minimum Distance Between BST Nodes](<https://leetcode.com/problems/minimum-distance-between-bst-nodes>)|Easy|54.5%|[783.minimum-distance-between-bst-nodes.js](<[783] Minimum Distance Between BST Nodes/783.minimum-distance-between-bst-nodes.js>)|||DFS|
 |[\[1319\] Number of Operations to Make Network Connected](<https://leetcode.com/problems/number-of-operations-to-make-network-connected>)|Medium|55.5%|[1319.number-of-operations-to-make-network-connected.js](<[1319] Number of Operations to Make Network Connected/1319.number-of-operations-to-make-network-connected.js>)|||Disjoint set|
 ||||[revision.js](<[1319] Number of Operations to Make Network Connected/revision.js>)|||Disjoint set|
-|[\[42\] Trapping Rain Water](<https://leetcode.com/problems/trapping-rain-water>)|Hard|55.0%|[42.trapping-rain-water.java](<[42] Trapping Rain Water/42.trapping-rain-water.java>)||||
+|[\[42\] Trapping Rain Water](<https://leetcode.com/problems/trapping-rain-water>)|Hard|55.0%|[42.trapping-rain-water.java](<[42] Trapping Rain Water/42.trapping-rain-water.java>)|||2-pointers|
 |[\[756\] Pyramid Transition Matrix](<https://leetcode.com/problems/pyramid-transition-matrix>)|Medium|55.9%|[756.pyramid-transition-matrix.js](<[756] Pyramid Transition Matrix/756.pyramid-transition-matrix.js>)|||DFS|
 |[\[1209\] Remove All Adjacent Duplicates in String II](<https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii>)|Medium|56.2%|[1209.remove-all-adjacent-duplicates-in-string-ii.java](<[1209] Remove All Adjacent Duplicates in String II/1209.remove-all-adjacent-duplicates-in-string-ii.java>)|||Stack|
+|[\[387\] First Unique Character in a String](<https://leetcode.com/problems/first-unique-character-in-a-string>)|Easy|56.1%|[387.first-unique-character-in-a-string.java](<[387] First Unique Character in a String/387.first-unique-character-in-a-string.java>)||||
 |[\[565\] Array Nesting](<https://leetcode.com/problems/array-nesting>)|Medium|56.4%|[565.array-nesting.java](<[565] Array Nesting/565.array-nesting.java>)||||
 |[\[64\] Minimum Path Sum](<https://leetcode.com/problems/minimum-path-sum>)|Medium|56.9%|[64.minimum-path-sum.js](<[64] Minimum Path Sum/64.minimum-path-sum.js>)|||DP|
 |[\[167\] Two Sum II - Input Array Is Sorted](<https://leetcode.com/problems/two-sum-ii-input-array-is-sorted>)|Easy|57.8%|[167.two-sum-ii-input-array-is-sorted.java](<[167] Two Sum II - Input Array Is Sorted/167.two-sum-ii-input-array-is-sorted.java>)|||2-pointers|
@@ -165,6 +174,7 @@ _The leetcode files and this README.md are generated and managed by [vim-leetcod
 |[\[938\] Range Sum of BST](<https://leetcode.com/problems/range-sum-of-bst>)|Easy|83.4%|[938.range-sum-of-bst.js](<[938] Range Sum of BST/938.range-sum-of-bst.js>)|||DFS|
 |[\[1302\] Deepest Leaves Sum](<https://leetcode.com/problems/deepest-leaves-sum>)|Medium|85.4%|[1302.deepest-leaves-sum.js](<[1302] Deepest Leaves Sum/1302.deepest-leaves-sum.js>)|||DFS|
 ||||[revision.java](<[1302] Deepest Leaves Sum/revision.java>)|||BFS|
+|[\[1379\] Find a Corresponding Node of a Binary Tree in a Clone of That Tree](<https://leetcode.com/problems/find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree>)|Medium|85.2%|[1379.find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree.java](<[1379] Find a Corresponding Node of a Binary Tree in a Clone of That Tree/1379.find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree.java>)|||DFS|
 |[\[1365\] How Many Numbers Are Smaller Than the Current Number](<https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number>)|Easy|86.0%|[1365.how-many-numbers-are-smaller-than-the-current-number.js](<[1365] How Many Numbers Are Smaller Than the Current Number/1365.how-many-numbers-are-smaller-than-the-current-number.js>)|||Array|
 |[\[1512\] Number of Good Pairs](<https://leetcode.com/problems/number-of-good-pairs>)|Easy|87.6%|[1512.number-of-good-pairs.js](<[1512] Number of Good Pairs/1512.number-of-good-pairs.js>)|||Array|
 |[\[1480\] Running Sum of 1d Array](<https://leetcode.com/problems/running-sum-of-1d-array>)|Easy|88.9%|[1480.running-sum-of-1d-array.js](<[1480] Running Sum of 1d Array/1480.running-sum-of-1d-array.js>)|||Array|

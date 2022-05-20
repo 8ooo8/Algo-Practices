@@ -1,0 +1,34 @@
+[387] First Unique Character in a String  
+
+https://leetcode.com/problems/first-unique-character-in-a-string/description/
+
+* algorithms
+* Easy (56.08%)
+* Likes:    4980
+* Dislikes: 198
+* Total Accepted:    1.1M
+* Total Submissions: 1.8M
+* Testcase Example:  '"leetcode"'
+* Source Code:       /Users/MeoWow/Documents/_CAREER_/_git_/algo-practices/leetcode/[387] First Unique Character in a String/387.first-unique-character-in-a-string.java
+
+Given a string s, find the first non-repeating character in it and return its index. If it does not exist, return -1.
+
+ 
+Example 1:
+Input: s = "leetcode"
+Output: 0
+Example 2:
+Input: s = "loveleetcode"
+Output: 2
+Example 3:
+Input: s = "aabb"
+Output: -1
+
+ 
+Constraints:
+
+
+	1 <= s.length <= 105
+	s consists of only lowercase English letters.
+
+
