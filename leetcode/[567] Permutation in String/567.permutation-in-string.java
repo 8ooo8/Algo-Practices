@@ -11,9 +11,10 @@ class Solution {
     static final int[] bitmaskToRemoveBits = new int[26];
     static final int[] bits = new int[26];
     static {
+        int all1s = ~0;
         for (int i = 0; i < 26; i++) {
             bits[i] = 1 << i;
-            bitmaskToRemoveBits[i] = ~0 - bits[i];
+            bitmaskToRemoveBits[i] = all1s - bits[i];
         }
     }
 
@@ -23,7 +24,6 @@ class Solution {
 
         int[] s1CharCount = new int[26], s2CharCount = new int[26];
         int matched = 0;
-        final int allMatched = (1 << 26) - 1;
 
         for (int i = 0; i < s1.length(); i++) {
             s1CharCount[s1.charAt(i) - 'a']++;

@@ -23,6 +23,7 @@ _The leetcode files and this README.md are generated and managed by [vim-leetcod
 |[\[3\] Longest Substring Without Repeating Characters](<https://leetcode.com/problems/longest-substring-without-repeating-characters>)|Medium|32.6%|[3.longest-substring-without-repeating-characters.java](<[3] Longest Substring Without Repeating Characters/3.longest-substring-without-repeating-characters.java>)|||Sliding window|
 |[\[218\] The Skyline Problem](<https://leetcode.com/problems/the-skyline-problem>)|Hard|33.2%|[218.the-skyline-problem.cpp](<[218] The Skyline Problem/218.the-skyline-problem.cpp>)|O(nlogn)|||
 |[\[322\] Coin Change](<https://leetcode.com/problems/coin-change>)|Medium|33.4%|[322.coin-change.js](<[322] Coin Change/322.coin-change.js>)|||DP|
+||||[revision.java](<[322] Coin Change/revision.java>)|||DP|
 |[\[581\] Shortest Unsorted Continuous Subarray](<https://leetcode.com/problems/shortest-unsorted-continuous-subarray>)|Medium|33.8%|[581.shortest-unsorted-continuous-subarray.java](<[581] Shortest Unsorted Continuous Subarray/581.shortest-unsorted-continuous-subarray.java>)||||
 |[\[69\] Sqrt(x)](<https://leetcode.com/problems/sqrtx>)|Easy|33.9%|[69.sqrtx.cpp](<[69] Sqrt(x)/69.sqrtx.cpp>)|O(logn)||Binary search|
 |[\[927\] Three Equal Parts](<https://leetcode.com/problems/three-equal-parts>)|Hard|34.8%|[927.three-equal-parts.js](<[927] Three Equal Parts/927.three-equal-parts.js>)||||
@@ -42,6 +43,7 @@ _The leetcode files and this README.md are generated and managed by [vim-leetcod
 ||||[2-pointers.java](<[125] Valid Palindrome/2-pointers.java>)|||2-pointers|
 |[\[20\] Valid Parentheses](<https://leetcode.com/problems/valid-parentheses>)|Easy|40.6%|[20.valid-parentheses.java](<[20] Valid Parentheses/20.valid-parentheses.java>)|||Stack|
 |[\[1091\] Shortest Path in Binary Matrix](<https://leetcode.com/problems/shortest-path-in-binary-matrix>)|Medium|41.7%|[1091.shortest-path-in-binary-matrix.java](<[1091] Shortest Path in Binary Matrix/1091.shortest-path-in-binary-matrix.java>)|||BFS|
+|[\[150\] Evaluate Reverse Polish Notation](<https://leetcode.com/problems/evaluate-reverse-polish-notation>)|Medium|41.1%|[150.evaluate-reverse-polish-notation.java](<[150] Evaluate Reverse Polish Notation/150.evaluate-reverse-polish-notation.java>)|||Stack|
 |[\[263\] Ugly Number](<https://leetcode.com/problems/ugly-number>)|Easy|41.7%|[263.ugly-number.js](<[263] Ugly Number/263.ugly-number.js>)||||
 |[\[315\] Count of Smaller Numbers After Self](<https://leetcode.com/problems/count-of-smaller-numbers-after-self>)|Hard|41.4%|[315.count-of-smaller-numbers-after-self.cpp](<[315] Count of Smaller Numbers After Self/315.count-of-smaller-numbers-after-self.cpp>)|||BST|
 |[\[923\] 3Sum With Multiplicity](<https://leetcode.com/problems/3sum-with-multiplicity>)|Medium|41.3%|[923.3sum-with-multiplicity.js](<[923] 3Sum With Multiplicity/923.3sum-with-multiplicity.js>)||||
@@ -68,6 +70,7 @@ _The leetcode files and this README.md are generated and managed by [vim-leetcod
 |[\[70\] Climbing Stairs](<https://leetcode.com/problems/climbing-stairs>)|Easy|48.9%|[70.climbing-stairs.js](<[70] Climbing Stairs/70.climbing-stairs.js>)|||DP|
 |[\[121\] Best Time to Buy and Sell Stock](<https://leetcode.com/problems/best-time-to-buy-and-sell-stock>)|Easy|49.2%|[121.best-time-to-buy-and-sell-stock.js](<[121] Best Time to Buy and Sell Stock/121.best-time-to-buy-and-sell-stock.js>)|||DP|
 ||||[revision.java](<[121] Best Time to Buy and Sell Stock/revision.java>)||||
+|[\[155\] Min Stack](<https://leetcode.com/problems/min-stack>)|Easy|49.2%|[155.min-stack.java](<[155] Min Stack/155.min-stack.java>)|||Stack|
 |[\[392\] Is Subsequence](<https://leetcode.com/problems/is-subsequence>)|Easy|49.7%|[392.is-subsequence.js](<[392] Is Subsequence/392.is-subsequence.js>)||||
 |[\[67\] Add Binary](<https://leetcode.com/problems/add-binary>)|Easy|49.2%|[67.add-binary.js](<[67] Add Binary/67.add-binary.js>)||||
 |[\[200\] Number of Islands](<https://leetcode.com/problems/number-of-islands>)|Medium|50.2%|[200.number-of-islands.js](<[200] Number of Islands/200.number-of-islands.js>)|||DFS|
@@ -139,6 +142,7 @@ _The leetcode files and this README.md are generated and managed by [vim-leetcod
 |[\[104\] Maximum Depth of Binary Tree](<https://leetcode.com/problems/maximum-depth-of-binary-tree>)|Easy|63.7%|[104.maximum-depth-of-binary-tree.js](<[104] Maximum Depth of Binary Tree/104.maximum-depth-of-binary-tree.js>)|||DFS|
 |[\[216\] Combination Sum III](<https://leetcode.com/problems/combination-sum-iii>)|Medium|63.0%|[216.combination-sum-iii.java](<[216] Combination Sum III/216.combination-sum-iii.java>)|||DFS|
 |[\[513\] Find Bottom Left Tree Value](<https://leetcode.com/problems/find-bottom-left-tree-value>)|Medium|63.1%|[513.find-bottom-left-tree-value.js](<[513] Find Bottom Left Tree Value/513.find-bottom-left-tree-value.js>)|||BFS|
+|[\[647\] Palindromic Substrings](<https://leetcode.com/problems/palindromic-substrings>)|Medium|63.9%|[647.palindromic-substrings.java](<[647] Palindromic Substrings/647.palindromic-substrings.java>)|||DFS|
 |[\[347\] Top K Frequent Elements](<https://leetcode.com/problems/top-k-frequent-elements>)|Medium|64.1%|[347.top-k-frequent-elements.java](<[347] Top K Frequent Elements/347.top-k-frequent-elements.java>)|||Hashing|
 |[\[669\] Trim a Binary Search Tree](<https://leetcode.com/problems/trim-a-binary-search-tree>)|Medium|64.5%|[669.trim-a-binary-search-tree.js](<[669] Trim a Binary Search Tree/669.trim-a-binary-search-tree.js>)||||
 |[\[762\] Prime Number of Set Bits in Binary Representation](<https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation>)|Easy|64.9%|[762.prime-number-of-set-bits-in-binary-representation.js](<[762] Prime Number of Set Bits in Binary Representation/762.prime-number-of-set-bits-in-binary-representation.js>)||||
@@ -149,10 +153,12 @@ _The leetcode files and this README.md are generated and managed by [vim-leetcod
 |[\[946\] Validate Stack Sequences](<https://leetcode.com/problems/validate-stack-sequences>)|Medium|65.1%|[946.validate-stack-sequences.java](<[946] Validate Stack Sequences/946.validate-stack-sequences.java>)||||
 ||||[946.validate-stack-sequences.js](<[946] Validate Stack Sequences/946.validate-stack-sequences.js>)||||
 |[\[1025\] Divisor Game](<https://leetcode.com/problems/divisor-game>)|Easy|66.1%|[1025.divisor-game.js](<[1025] Divisor Game/1025.divisor-game.js>)|||DP|
+|[\[739\] Daily Temperatures](<https://leetcode.com/problems/daily-temperatures>)|Medium|66.6%|[739.daily-temperatures.java](<[739] Daily Temperatures/739.daily-temperatures.java>)|||Stack|
 |[\[883\] Projection Area of 3D Shapes](<https://leetcode.com/problems/projection-area-of-3d-shapes>)|Easy|66.8%|[883.projection-area-of-3d-shapes.cpp](<[883] Projection Area of 3D Shapes/883.projection-area-of-3d-shapes.cpp>)||||
 |[\[1338\] Reduce Array Size to The Half](<https://leetcode.com/problems/reduce-array-size-to-the-half>)|Medium|67.7%|[1338.reduce-array-size-to-the-half.js](<[1338] Reduce Array Size to The Half/1338.reduce-array-size-to-the-half.js>)|||Greedy|
 ||||[hashTable+greedy.js](<[1338] Reduce Array Size to The Half/hashTable+greedy.js>)|||Hashing + Greedy|
 |[\[1043\] Partition Array for Maximum Sum](<https://leetcode.com/problems/partition-array-for-maximum-sum>)|Medium|68.0%|[1043.partition-array-for-maximum-sum.js](<[1043] Partition Array for Maximum Sum/1043.partition-array-for-maximum-sum.js>)||||
+|[\[22\] Generate Parentheses](<https://leetcode.com/problems/generate-parentheses>)|Medium|68.9%|[22.generate-parentheses.java](<[22] Generate Parentheses/22.generate-parentheses.java>)|||DFS|
 |[\[682\] Baseball Game](<https://leetcode.com/problems/baseball-game>)|Easy|68.9%|[682.baseball-game.cpp](<[682] Baseball Game/682.baseball-game.cpp>)||||
 ||||[682.baseball-game.js](<[682] Baseball Game/682.baseball-game.js>)||||
 |[\[559\] Maximum Depth of N-ary Tree](<https://leetcode.com/problems/maximum-depth-of-n-ary-tree>)|Easy|69.8%|[559.maximum-depth-of-n-ary-tree.js](<[559] Maximum Depth of N-ary Tree/559.maximum-depth-of-n-ary-tree.js>)|||DFS|
