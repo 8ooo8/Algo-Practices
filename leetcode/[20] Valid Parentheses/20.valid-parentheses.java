@@ -6,21 +6,13 @@
 
 // @lc code=start
 class Solution {
-    private static Map<Character, Character> brackets = Map.of(
-            ')', '(',
-            ']', '[',
-            '}', '{');
-
     public boolean isValid(String s) {
+        Map<Character, Character> brackets = Map.of(')', '(', ']', '[', '}', '{');
         Stack<Character> stack = new Stack<>();
         char c;
-
-        stack.push(s.charAt(0));
-        for (int i = 1; i < s.length(); i++) {
-            if (brackets.containsValue(c = s.charAt(i)))
-                stack.push(c);
-            else if (stack.isEmpty() || stack.pop() != brackets.get(c))
-                return false;
+        for (int i = 0; i < s.length(); i++) {
+            if (brackets.containsValue(c = s.charAt(i))) stack.push(c);
+            else if (stack.isEmpty() || stack.pop() != brackets.get(c)) return false;
         }
         return stack.isEmpty();
     }

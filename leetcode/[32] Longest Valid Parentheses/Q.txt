@@ -1,0 +1,47 @@
+[32] Longest Valid Parentheses  
+
+https://leetcode.com/problems/longest-valid-parentheses/description/
+
+* algorithms
+* Hard (30.88%)
+* Likes:    8414
+* Dislikes: 282
+* Total Accepted:    508.8K
+* Total Submissions: 1.6M
+* Testcase Example:  '"(()"'
+* Source Code:       /Users/MeoWow/Documents/_CAREER_/_git_/algo-practices/leetcode/[32] Longest Valid Parentheses/32.longest-valid-parentheses.java
+
+Given a string containing just the characters '(' and ')', find the length of the longest valid (well-formed) parentheses substring.
+
+ 
+Example 1:
+
+
+Input: s = "(()"
+Output: 2
+Explanation: The longest valid parentheses substring is "()".
+
+
+Example 2:
+
+
+Input: s = ")()())"
+Output: 4
+Explanation: The longest valid parentheses substring is "()()".
+
+
+Example 3:
+
+
+Input: s = ""
+Output: 0
+
+
+ 
+Constraints:
+
+
+	0 <= s.length <= 3 * 104
+	s[i] is '(', or ')'.
+
+
