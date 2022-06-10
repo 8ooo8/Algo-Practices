@@ -23,6 +23,7 @@ _The leetcode files and this README.md are generated and managed by [vim-leetcod
 |[\[456\] 132 Pattern](<https://leetcode.com/problems/132-pattern>)|Medium|30.8%|[456.132-pattern.java](<[456] 132 Pattern/456.132-pattern.java>)|O(n)||Stack|
 |[\[127\] Word Ladder](<https://leetcode.com/problems/word-ladder>)|Hard|32.6%|[127.word-ladder.js](<[127] Word Ladder/127.word-ladder.js>)|||BFS|
 |[\[3\] Longest Substring Without Repeating Characters](<https://leetcode.com/problems/longest-substring-without-repeating-characters>)|Medium|32.6%|[3.longest-substring-without-repeating-characters.java](<[3] Longest Substring Without Repeating Characters/3.longest-substring-without-repeating-characters.java>)|||Sliding window|
+||||[revision.java](<[3] Longest Substring Without Repeating Characters/revision.java>)|||Sliding window|
 |[\[218\] The Skyline Problem](<https://leetcode.com/problems/the-skyline-problem>)|Hard|33.2%|[218.the-skyline-problem.cpp](<[218] The Skyline Problem/218.the-skyline-problem.cpp>)|O(nlogn)|||
 |[\[322\] Coin Change](<https://leetcode.com/problems/coin-change>)|Medium|33.4%|[322.coin-change.js](<[322] Coin Change/322.coin-change.js>)|||DP|
 ||||[revision.java](<[322] Coin Change/revision.java>)|||DP|
@@ -55,6 +56,7 @@ _The leetcode files and this README.md are generated and managed by [vim-leetcod
 |[\[234\] Palindrome Linked List](<https://leetcode.com/problems/palindrome-linked-list>)|Easy|42.7%|[234.palindrome-linked-list.js](<[234] Palindrome Linked List/234.palindrome-linked-list.js>)|||Linked list|
 |[\[35\] Search Insert Position](<https://leetcode.com/problems/search-insert-position>)|Easy|42.7%|[35.search-insert-position.cpp](<[35] Search Insert Position/35.search-insert-position.cpp>)|O(logn)||Binary serach|
 |[\[658\] Find K Closest Elements](<https://leetcode.com/problems/find-k-closest-elements>)|Medium|42.7%|[658.find-k-closest-elements.js](<[658] Find K Closest Elements/658.find-k-closest-elements.js>)|||Binary search + 2-pointers|
+||||[revision.java](<[658] Find K Closest Elements/revision.java>)||||
 |[\[88\] Merge Sorted Array](<https://leetcode.com/problems/merge-sorted-array>)|Easy|42.7%|[88.merge-sorted-array.js](<[88] Merge Sorted Array/88.merge-sorted-array.js>)||||
 ||||[revision.java](<[88] Merge Sorted Array/revision.java>)||O(1)|2-pointers|
 |[\[1187\] Make Array Strictly Increasing](<https://leetcode.com/problems/make-array-strictly-increasing>)|Hard|43.1%|[1187.make-array-strictly-increasing.js](<[1187] Make Array Strictly Increasing/1187.make-array-strictly-increasing.js>)|||DP|
@@ -64,8 +66,10 @@ _The leetcode files and this README.md are generated and managed by [vim-leetcod
 |[\[74\] Search a 2D Matrix](<https://leetcode.com/problems/search-a-2d-matrix>)|Medium|44.9%|[74.search-a-2d-matrix.java](<[74] Search a 2D Matrix/74.search-a-2d-matrix.java>)|||Binary search|
 |[\[117\] Populating Next Right Pointers in Each Node II](<https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii>)|Medium|45.2%|[117.populating-next-right-pointers-in-each-node-ii.java](<[117] Populating Next Right Pointers in Each Node II/117.populating-next-right-pointers-in-each-node-ii.java>)|||BFS|
 |[\[147\] Insertion Sort List](<https://leetcode.com/problems/insertion-sort-list>)|Medium|45.0%|[147.insertion-sort-list.js](<[147] Insertion Sort List/147.insertion-sort-list.js>)|||linked list|
+|[\[231\] Power of Two](<https://leetcode.com/problems/power-of-two>)|Easy|45.1%|[231.power-of-two.java](<[231] Power of Two/231.power-of-two.java>)|||bitwise|
 |[\[827\] Making A Large Island](<https://leetcode.com/problems/making-a-large-island>)|Hard|46.9%|[827.making-a-large-island.js](<[827] Making A Large Island/827.making-a-large-island.js>)|||DFS|
 |[\[1824\] Minimum Sideway Jumps](<https://leetcode.com/problems/minimum-sideway-jumps>)|Medium|47.5%|[1824.minimum-sideway-jumps.js](<[1824] Minimum Sideway Jumps/1824.minimum-sideway-jumps.js>)|||DP|
+|[\[23\] Merge k Sorted Lists](<https://leetcode.com/problems/merge-k-sorted-lists>)|Hard|47.3%|[23.merge-k-sorted-lists.java](<[23] Merge k Sorted Lists/23.merge-k-sorted-lists.java>)|||Heap|
 |[\[304\] Range Sum Query 2D - Immutable](<https://leetcode.com/problems/range-sum-query-2d-immutable>)|Medium|47.9%|[304.range-sum-query-2d-immutable.java](<[304] Range Sum Query 2D - Immutable/304.range-sum-query-2d-immutable.java>)||||
 |[\[679\] 24 Game](<https://leetcode.com/problems/24-game>)|Hard|47.5%|[679.24-game.js](<[679] 24 Game/679.24-game.js>)|||DFS|
 |[\[688\] Knight Probability in Chessboard](<https://leetcode.com/problems/knight-probability-in-chessboard>)|Medium|47.0%|[688.knight-probability-in-chessboard.cpp](<[688] Knight Probability in Chessboard/688.knight-probability-in-chessboard.cpp>)|O((N^2)K)||DP|
@@ -84,6 +88,7 @@ _The leetcode files and this README.md are generated and managed by [vim-leetcod
 |[\[155\] Min Stack](<https://leetcode.com/problems/min-stack>)|Easy|49.2%|[155.min-stack.java](<[155] Min Stack/155.min-stack.java>)|||Stack|
 |[\[392\] Is Subsequence](<https://leetcode.com/problems/is-subsequence>)|Easy|49.7%|[392.is-subsequence.js](<[392] Is Subsequence/392.is-subsequence.js>)||||
 |[\[67\] Add Binary](<https://leetcode.com/problems/add-binary>)|Easy|49.2%|[67.add-binary.js](<[67] Add Binary/67.add-binary.js>)||||
+||||[revision.java](<[67] Add Binary/revision.java>)||||
 |[\[160\] Intersection of Two Linked Lists](<https://leetcode.com/problems/intersection-of-two-linked-lists>)|Easy|50.4%|[2-pointers.java](<[160] Intersection of Two Linked Lists/2-pointers.java>)||O(1)|2-pointers|
 ||||[hashing.java](<[160] Intersection of Two Linked Lists/hashing.java>)|||Hashing|
 |[\[200\] Number of Islands](<https://leetcode.com/problems/number-of-islands>)|Medium|50.2%|[200.number-of-islands.js](<[200] Number of Islands/200.number-of-islands.js>)|||DFS|
@@ -180,6 +185,7 @@ _The leetcode files and this README.md are generated and managed by [vim-leetcod
 |[\[946\] Validate Stack Sequences](<https://leetcode.com/problems/validate-stack-sequences>)|Medium|65.1%|[946.validate-stack-sequences.java](<[946] Validate Stack Sequences/946.validate-stack-sequences.java>)||||
 ||||[946.validate-stack-sequences.js](<[946] Validate Stack Sequences/946.validate-stack-sequences.js>)||||
 |[\[1025\] Divisor Game](<https://leetcode.com/problems/divisor-game>)|Easy|66.1%|[1025.divisor-game.js](<[1025] Divisor Game/1025.divisor-game.js>)|||DP|
+|[\[476\] Number Complement](<https://leetcode.com/problems/number-complement>)|Easy|66.8%|[476.number-complement.java](<[476] Number Complement/476.number-complement.java>)||||
 |[\[739\] Daily Temperatures](<https://leetcode.com/problems/daily-temperatures>)|Medium|66.6%|[739.daily-temperatures.java](<[739] Daily Temperatures/739.daily-temperatures.java>)|||Stack|
 |[\[883\] Projection Area of 3D Shapes](<https://leetcode.com/problems/projection-area-of-3d-shapes>)|Easy|66.8%|[883.projection-area-of-3d-shapes.cpp](<[883] Projection Area of 3D Shapes/883.projection-area-of-3d-shapes.cpp>)||||
 |[\[1338\] Reduce Array Size to The Half](<https://leetcode.com/problems/reduce-array-size-to-the-half>)|Medium|67.7%|[1338.reduce-array-size-to-the-half.js](<[1338] Reduce Array Size to The Half/1338.reduce-array-size-to-the-half.js>)|||Greedy|
@@ -191,6 +197,7 @@ _The leetcode files and this README.md are generated and managed by [vim-leetcod
 ||||[682.baseball-game.js](<[682] Baseball Game/682.baseball-game.js>)||||
 |[\[1332\] Remove Palindromic Subsequences](<https://leetcode.com/problems/remove-palindromic-subsequences>)|Easy|69.7%|[1332.remove-palindromic-subsequences.java](<[1332] Remove Palindromic Subsequences/1332.remove-palindromic-subsequences.java>)||||
 ||||[2-pointers.java](<[1332] Remove Palindromic Subsequences/2-pointers.java>)||O(1)|2 pointers|
+|[\[136\] Single Number](<https://leetcode.com/problems/single-number>)|Easy|69.5%|[136.single-number.java](<[136] Single Number/136.single-number.java>)||||
 |[\[559\] Maximum Depth of N-ary Tree](<https://leetcode.com/problems/maximum-depth-of-n-ary-tree>)|Easy|69.8%|[559.maximum-depth-of-n-ary-tree.js](<[559] Maximum Depth of N-ary Tree/559.maximum-depth-of-n-ary-tree.js>)|||DFS|
 |[\[876\] Middle of the Linked List](<https://leetcode.com/problems/middle-of-the-linked-list>)|Easy|69.9%|[876.middle-of-the-linked-list.java](<[876] Middle of the Linked List/876.middle-of-the-linked-list.java>)||||
 |[\[1026\] Maximum Difference Between Node and Ancestor](<https://leetcode.com/problems/maximum-difference-between-node-and-ancestor>)|Medium|70.1%|[1026.maximum-difference-between-node-and-ancestor.js](<[1026] Maximum Difference Between Node and Ancestor/1026.maximum-difference-between-node-and-ancestor.js>)|||DFS|
@@ -208,6 +215,7 @@ _The leetcode files and this README.md are generated and managed by [vim-leetcod
 |[\[1351\] Count Negative Numbers in a Sorted Matrix](<https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix>)|Easy|75.6%|[1351.count-negative-numbers-in-a-sorted-matrix.js](<[1351] Count Negative Numbers in a Sorted Matrix/1351.count-negative-numbers-in-a-sorted-matrix.js>)|||Binary search|
 |[\[1641\] Count Sorted Vowel Strings](<https://leetcode.com/problems/count-sorted-vowel-strings>)|Medium|75.1%|[1641.count-sorted-vowel-strings.js](<[1641] Count Sorted Vowel Strings/1641.count-sorted-vowel-strings.js>)|||DP|
 ||||[revision.java](<[1641] Count Sorted Vowel Strings/revision.java>)|||DP|
+|[\[2220\] Minimum Bit Flips to Convert Number](<https://leetcode.com/problems/minimum-bit-flips-to-convert-number>)|Easy|81.5%|[2220.minimum-bit-flips-to-convert-number.java](<[2220] Minimum Bit Flips to Convert Number/2220.minimum-bit-flips-to-convert-number.java>)||||
 |[\[938\] Range Sum of BST](<https://leetcode.com/problems/range-sum-of-bst>)|Easy|83.4%|[938.range-sum-of-bst.js](<[938] Range Sum of BST/938.range-sum-of-bst.js>)|||DFS|
 |[\[1302\] Deepest Leaves Sum](<https://leetcode.com/problems/deepest-leaves-sum>)|Medium|85.4%|[1302.deepest-leaves-sum.js](<[1302] Deepest Leaves Sum/1302.deepest-leaves-sum.js>)|||DFS|
 ||||[revision.java](<[1302] Deepest Leaves Sum/revision.java>)|||BFS|

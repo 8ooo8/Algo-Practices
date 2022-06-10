@@ -1,0 +1,50 @@
+[231] Power of Two  
+
+https://leetcode.com/problems/power-of-two/description/
+
+* algorithms
+* Easy (45.08%)
+* Likes:    3365
+* Dislikes: 296
+* Total Accepted:    643.5K
+* Total Submissions: 1.4M
+* Testcase Example:  '1'
+* Source Code:       /Users/MeoWow/Documents/_CAREER_/_git_/algo-practices/leetcode/[231] Power of Two/231.power-of-two.java
+
+Given an integer n, return true if it is a power of two. Otherwise, return false.
+
+An integer n is a power of two, if there exists an integer x such that n == 2x.
+
+ 
+Example 1:
+
+
+Input: n = 1
+Output: true
+Explanation: 20 = 1
+
+
+Example 2:
+
+
+Input: n = 16
+Output: true
+Explanation: 24 = 16
+
+
+Example 3:
+
+
+Input: n = 3
+Output: false
+
+
+ 
+Constraints:
+
+
+	-231 <= n <= 231 - 1
+
+
+ 
+Follow up: Could you solve it without loops/recursion?
