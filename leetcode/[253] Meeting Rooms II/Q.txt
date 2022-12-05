@@ -1,0 +1,31 @@
+[253] Meeting Rooms II  
+
+https://leetcode.com/problems/meeting-rooms-ii/description/
+
+* algorithms
+* Medium (49.85%)
+* Likes:    5699
+* Dislikes: 114
+* Total Accepted:    665.5K
+* Total Submissions: 1.3M
+* Testcase Example:  '[[0,30],[5,10],[15,20]]'
+* Source Code:       /Users/MeoWow/Documents/_CAREER_/_git_/algo-practices/leetcode/[253] Meeting Rooms II/253.meeting-rooms-ii.java
+
+Given an array of meeting time intervals intervals where intervals[i] = [starti, endi], return the minimum number of conference rooms required.
+
+ 
+Example 1:
+Input: intervals = [[0,30],[5,10],[15,20]]
+Output: 2
+Example 2:
+Input: intervals = [[7,10],[2,4]]
+Output: 1
+
+ 
+Constraints:
+
+
+	1 <= intervals.length <= 104
+	0 <= starti < endi <= 106
+
+
