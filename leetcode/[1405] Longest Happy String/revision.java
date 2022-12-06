@@ -8,29 +8,24 @@
 class Solution {
     public String longestDiverseString(int a, int b, int c) {
         StringBuilder ans = new StringBuilder();
-        Queue<Pair<Character, Integer>> q = new PriorityQueue<>(3, (e1, e2) -> e2.getValue() - e1.getValue());
-        q.offer(new Pair<>('a', a));
-        q.offer(new Pair<>('b', b));
-        q.offer(new Pair<>('c', c));
-        int numOfConsecutiveLetters = 0;
-        char consecutiveLetter = q.peek().getKey();
-        while (!q.isEmpty()) {
-            Pair<Character, Integer> maxRemainLetters = q.poll();
-            if ((numOfConsecutiveLetters < 2 || consecutiveLetter != maxRemainLetters.getKey()) && maxRemainLetters.getValue() > 0) {
-                ans.append(maxRemainLetters.getKey());
-                numOfConsecutiveLetters = consecutiveLetter == maxRemainLetters.getKey() ? numOfConsecutiveLetters + 1 : 1;
-                consecutiveLetter = maxRemainLetters.getKey();
-                q.offer(new Pair<>(maxRemainLetters.getKey(), maxRemainLetters.getValue() - 1));
-            } else if (!q.isEmpty()){
-                // insert another character to break 3 consecutive letters, i.e. 'aaa', 'bbb' and 'ccc'
-                Pair<Character, Integer> secondMaxRemainLetters = q.poll();
-                if (secondMaxRemainLetters.getValue() > 0) {
-                    ans.append(secondMaxRemainLetters.getKey());
-                    numOfConsecutiveLetters = 1;
-                    consecutiveLetter = secondMaxRemainLetters.getKey();
-                    q.offer(new Pair<>(secondMaxRemainLetters.getKey(), secondMaxRemainLetters.getValue() - 1));
-                }
-                q.offer(new Pair<>(maxRemainLetters.getKey(), maxRemainLetters.getValue()));
+
+        PriorityQueue<Pair<Character, Integer>> remain = new PriorityQueue<>(3, (r1 ,r2) -> r2.getValue() - r1.getValue());
+        remain.offer(new Pair('a', a));
+        remain.offer(new Pair('b', b));
+        remain.offer(new Pair('c', c));
+
+        while (!remain.isEmpty()) {
+            Pair<Character, Integer> r = remain.poll();
+            char letter = r.getKey();
+            if (ans.length() >= 2 && ans.charAt(ans.length() - 1) == letter && ans.charAt(ans.length() - 2) == letter) {
+                Pair<Character, Integer> tmp = r;
+                r = remain.poll();
+                if (r != null)
+                    remain.offer(tmp);
+            }
+            if (r != null && r.getValue() >= 1) {
+                ans.append(r.getKey());
+                remain.offer(new Pair(r.getKey(), r.getValue() - 1));
             }
         }
 

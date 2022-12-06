@@ -132,8 +132,9 @@ _The leetcode files and this README.md are generated and managed by [vim-leetcod
 |[\[1092\] Shortest Common Supersequence](<https://leetcode.com/problems/shortest-common-supersequence>)|Hard|53.7%|[1092.shortest-common-supersequence.js](<[1092] Shortest Common Supersequence/1092.shortest-common-supersequence.js>)|||DP|
 |[\[11\] Container With Most Water](<https://leetcode.com/problems/container-with-most-water>)|Medium|53.2%|[11.container-with-most-water.js](<[11] Container With Most Water/11.container-with-most-water.js>)|||2-pointers|
 ||||[revision.java](<[11] Container With Most Water/revision.java>)|||2-pointers|
-|[\[1405\] Longest Happy String](<https://leetcode.com/problems/longest-happy-string>)|Medium|53.1%|[1405.longest-happy-string.cpp](<[1405] Longest Happy String/1405.longest-happy-string.cpp>)|||Max heap|
-||||[revision.java](<[1405] Longest Happy String/revision.java>)||||
+|[\[1405\] Longest Happy String](<https://leetcode.com/problems/longest-happy-string>)|Medium|53.1%|[1405.longest-happy-string.java](<[1405] Longest Happy String/1405.longest-happy-string.java>)|||Max heap|
+||||[revision.java](<[1405] Longest Happy String/revision.java>)|||Max heap|
+||||[revision2.cpp](<[1405] Longest Happy String/revision2.cpp>)|||Max heap|
 |[\[1410\] HTML Entity Parser](<https://leetcode.com/problems/html-entity-parser>)|Medium|53.6%|[1410.html-entity-parser.js](<[1410] HTML Entity Parser/1410.html-entity-parser.js>)||||
 |[\[1679\] Max Number of K-Sum Pairs](<https://leetcode.com/problems/max-number-of-k-sum-pairs>)|Medium|53.5%|[1679.max-number-of-k-sum-pairs.java](<[1679] Max Number of K-Sum Pairs/1679.max-number-of-k-sum-pairs.java>)||||
 |[\[284\] Peeking Iterator](<https://leetcode.com/problems/peeking-iterator>)|Medium|53.0%|[284.peeking-iterator.java](<[284] Peeking Iterator/284.peeking-iterator.java>)||||
