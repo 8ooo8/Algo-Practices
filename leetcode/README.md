@@ -4,9 +4,11 @@ _The leetcode files and this README.md are generated and managed by [vim-leetcod
 
 |Question|Difficulty|Acceptance|Solution|Time|Space|Note|Last modified time|
 |-|-|-|-|-|-|-|-|
+|[\[1304\] Find N Unique Integers Sum up to Zero](<https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero>)|Easy|77.1%|[1304.find-n-unique-integers-sum-up-to-zero.java](<[1304] Find N Unique Integers Sum up to Zero/1304.find-n-unique-integers-sum-up-to-zero.java>)|||Array|2022/12/11 04:38:10|
+|[\[1405\] Longest Happy String](<https://leetcode.com/problems/longest-happy-string>)|Medium|53.1%|[revision.java](<[1405] Longest Happy String/revision.java>)|||Max heap|2022/12/11 04:23:49|
+||||[1405.longest-happy-string.java](<[1405] Longest Happy String/1405.longest-happy-string.java>)|||Max heap|2022/12/11 04:23:44|
+||||[revision2.cpp](<[1405] Longest Happy String/revision2.cpp>)|||Max heap|2022/12/11 04:23:44|
 |[\[1101\] The Earliest Moment When Everyone Become Friends](<https://leetcode.com/problems/the-earliest-moment-when-everyone-become-friends>)|Medium|65.0%|[1101.the-earliest-moment-when-everyone-become-friends.java](<[1101] The Earliest Moment When Everyone Become Friends/1101.the-earliest-moment-when-everyone-become-friends.java>)|||Disjoint set|2022/12/07 05:34:59|
-|[\[1405\] Longest Happy String](<https://leetcode.com/problems/longest-happy-string>)|Medium|53.1%|[revision.java](<[1405] Longest Happy String/revision.java>)|||Max heap|2022/12/07 04:55:04|
-||||[revision2.cpp](<[1405] Longest Happy String/revision2.cpp>)|||Max heap|2022/12/06 02:59:15|
 |[\[729\] My Calendar I](<https://leetcode.com/problems/my-calendar-i>)|Medium|57.2%|[729.my-calendar-i.java](<[729] My Calendar I/729.my-calendar-i.java>)|||Sorted list + binary search|2022/10/23 15:56:20|
 |[\[359\] Logger Rate Limiter](<https://leetcode.com/problems/logger-rate-limiter>)|Easy|75.5%|[359.logger-rate-limiter.java](<[359] Logger Rate Limiter/359.logger-rate-limiter.java>)|||Hashtable|2022/10/22 13:29:20|
 |[\[366\] Find Leaves of Binary Tree](<https://leetcode.com/problems/find-leaves-of-binary-tree>)|Medium|80.1%|[countLvl.java](<[366] Find Leaves of Binary Tree/countLvl.java>)|||Tree traversal|2022/10/21 14:19:04|
@@ -136,7 +138,6 @@ _The leetcode files and this README.md are generated and managed by [vim-leetcod
 |[\[1209\] Remove All Adjacent Duplicates in String II](<https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii>)|Medium|56.2%|[1209.remove-all-adjacent-duplicates-in-string-ii.java](<[1209] Remove All Adjacent Duplicates in String II/1209.remove-all-adjacent-duplicates-in-string-ii.java>)|||Stack|2022/05/07 11:03:54|
 |[\[1249\] Minimum Remove to Make Valid Parentheses](<https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses>)|Medium|65.2%|[1249.minimum-remove-to-make-valid-parentheses.js](<[1249] Minimum Remove to Make Valid Parentheses/1249.minimum-remove-to-make-valid-parentheses.js>)||||2022/05/07 11:03:54|
 |[\[1260\] Shift 2D Grid](<https://leetcode.com/problems/shift-2d-grid>)|Easy|62.2%|[1260.shift-2d-grid.js](<[1260] Shift 2D Grid/1260.shift-2d-grid.js>)||||2022/05/07 11:03:54|
-|[\[1405\] Longest Happy String](<https://leetcode.com/problems/longest-happy-string>)|Medium|53.1%|[1405.longest-happy-string.java](<[1405] Longest Happy String/1405.longest-happy-string.java>)|||Max heap|2022/05/07 11:03:54|
 |[\[1679\] Max Number of K-Sum Pairs](<https://leetcode.com/problems/max-number-of-k-sum-pairs>)|Medium|53.5%|[1679.max-number-of-k-sum-pairs.java](<[1679] Max Number of K-Sum Pairs/1679.max-number-of-k-sum-pairs.java>)||||2022/05/07 11:03:54|
 |[\[1721\] Swapping Nodes in a Linked List](<https://leetcode.com/problems/swapping-nodes-in-a-linked-list>)|Medium|65.7%|[1721.swapping-nodes-in-a-linked-list.js](<[1721] Swapping Nodes in a Linked List/1721.swapping-nodes-in-a-linked-list.js>)||||2022/05/07 11:03:54|
 |[\[1880\] Check if Word Equals Summation of Two Words](<https://leetcode.com/problems/check-if-word-equals-summation-of-two-words>)|Easy|72.9%|[1880.check-if-word-equals-summation-of-two-words.java](<[1880] Check if Word Equals Summation of Two Words/1880.check-if-word-equals-summation-of-two-words.java>)||||2022/05/07 11:03:54|
