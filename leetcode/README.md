@@ -4,6 +4,8 @@ _The leetcode files and this README.md are generated and managed by [vim-leetcod
 
 |Question|Difficulty|Acceptance|Solution|Time|Space|Note|Last modified time|
 |-|-|-|-|-|-|-|-|
+|[\[1404\] Number of Steps to Reduce a Number in Binary Representation to One](<https://leetcode.com/problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one>)|Medium|52.0%|[2-lines solution.java](<[1404] Number of Steps to Reduce a Number in Binary Representation to One/2-lines solution.java>)||||2022/12/12 03:19:41|
+||||[1404.number-of-steps-to-reduce-a-number-in-binary-representation-to-one.java](<[1404] Number of Steps to Reduce a Number in Binary Representation to One/1404.number-of-steps-to-reduce-a-number-in-binary-representation-to-one.java>)|||String as bits|2022/12/11 05:28:32|
 |[\[1304\] Find N Unique Integers Sum up to Zero](<https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero>)|Easy|77.1%|[1304.find-n-unique-integers-sum-up-to-zero.java](<[1304] Find N Unique Integers Sum up to Zero/1304.find-n-unique-integers-sum-up-to-zero.java>)|||Array|2022/12/11 04:38:10|
 |[\[1405\] Longest Happy String](<https://leetcode.com/problems/longest-happy-string>)|Medium|53.1%|[revision.java](<[1405] Longest Happy String/revision.java>)|||Max heap|2022/12/11 04:23:49|
 ||||[1405.longest-happy-string.java](<[1405] Longest Happy String/1405.longest-happy-string.java>)|||Max heap|2022/12/11 04:23:44|
