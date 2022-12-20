@@ -4,7 +4,8 @@ _The leetcode files and this README.md are generated and managed by [vim-leetcod
 
 |Question|Difficulty|Acceptance|Solution|Time|Space|Note|Last modified time|
 |-|-|-|-|-|-|-|-|
-|[\[1239\] Maximum Length of a Concatenated String with Unique Characters](<https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters>)|Medium|50.6%|[bitwise.java](<[1239] Maximum Length of a Concatenated String with Unique Characters/bitwise.java>)|||Bitwise + iterative|2022/12/19 21:36:25|
+|[\[1239\] Maximum Length of a Concatenated String with Unique Characters](<https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters>)|Medium|50.6%|[backtracking.java](<[1239] Maximum Length of a Concatenated String with Unique Characters/backtracking.java>)|||Backtracking + DFS + bitwise|2022/12/20 01:37:42|
+||||[bitwise.java](<[1239] Maximum Length of a Concatenated String with Unique Characters/bitwise.java>)|O(2^n)|O(n)|Bitwise + iterative|2022/12/19 21:36:25|
 |[\[2096\] Step-By-Step Directions From a Binary Tree Node to Another](<https://leetcode.com/problems/step-by-step-directions-from-a-binary-tree-node-to-another>)|Medium|48.8%|[2096.step-by-step-directions-from-a-binary-tree-node-to-another.java](<[2096] Step-By-Step Directions From a Binary Tree Node to Another/2096.step-by-step-directions-from-a-binary-tree-node-to-another.java>)|||Tree traversal|2022/12/19 04:45:29|
 |[\[2028\] Find Missing Observations](<https://leetcode.com/problems/find-missing-observations>)|Medium|43.5%|[2028.find-missing-observations.java](<[2028] Find Missing Observations/2028.find-missing-observations.java>)||||2022/12/18 16:55:32|
 |[\[1647\] Minimum Deletions to Make Character Frequencies Unique](<https://leetcode.com/problems/minimum-deletions-to-make-character-frequencies-unique>)|Medium|59.2%|[test.java](<[1647] Minimum Deletions to Make Character Frequencies Unique/test.java>)|||Hashtable|2022/12/18 03:05:44|
