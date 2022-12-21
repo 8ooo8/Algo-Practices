@@ -4,6 +4,8 @@ _The leetcode files and this README.md are generated and managed by [vim-leetcod
 
 |Question|Difficulty|Acceptance|Solution|Time|Space|Note|Last modified time|
 |-|-|-|-|-|-|-|-|
+|[\[967\] Numbers With Same Consecutive Differences](<https://leetcode.com/problems/numbers-with-same-consecutive-differences>)|Medium|57.0%|[DFS.java](<[967] Numbers With Same Consecutive Differences/DFS.java>)|||DFS|2022/12/21 04:47:49|
+||||[967.numbers-with-same-consecutive-differences.java](<[967] Numbers With Same Consecutive Differences/967.numbers-with-same-consecutive-differences.java>)|||BFS|2022/12/21 04:32:44|
 |[\[1239\] Maximum Length of a Concatenated String with Unique Characters](<https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters>)|Medium|50.6%|[backtracking.java](<[1239] Maximum Length of a Concatenated String with Unique Characters/backtracking.java>)|||Backtracking + DFS + bitwise|2022/12/20 01:37:42|
 ||||[bitwise.java](<[1239] Maximum Length of a Concatenated String with Unique Characters/bitwise.java>)|O(2^n)|O(n)|Bitwise + iterative|2022/12/19 21:36:25|
 |[\[2096\] Step-By-Step Directions From a Binary Tree Node to Another](<https://leetcode.com/problems/step-by-step-directions-from-a-binary-tree-node-to-another>)|Medium|48.8%|[2096.step-by-step-directions-from-a-binary-tree-node-to-another.java](<[2096] Step-By-Step Directions From a Binary Tree Node to Another/2096.step-by-step-directions-from-a-binary-tree-node-to-another.java>)|||Tree traversal|2022/12/19 04:45:29|
