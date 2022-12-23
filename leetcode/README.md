@@ -4,6 +4,8 @@ _The leetcode files and this README.md are generated and managed by [vim-leetcod
 
 |Question|Difficulty|Acceptance|Solution|Time|Space|Note|Last modified time|
 |-|-|-|-|-|-|-|-|
+|[\[1647\] Minimum Deletions to Make Character Frequencies Unique](<https://leetcode.com/problems/minimum-deletions-to-make-character-frequencies-unique>)|Medium|59.2%|[priority_queue.java](<[1647] Minimum Deletions to Make Character Frequencies Unique/priority_queue.java>)|O(n + K^2 * logK)||Heap|2022/12/22 20:35:03|
+||||[revision.java](<[1647] Minimum Deletions to Make Character Frequencies Unique/revision.java>)|O(n + K * logK)||Hashtable + sort|2022/12/22 20:14:56|
 |[\[1027\] Longest Arithmetic Subsequence](<https://leetcode.com/problems/longest-arithmetic-subsequence>)|Medium|47.2%|[1027.longest-arithmetic-subsequence.java](<[1027] Longest Arithmetic Subsequence/1027.longest-arithmetic-subsequence.java>)|||DP|2022/12/22 02:26:53|
 |[\[2096\] Step-By-Step Directions From a Binary Tree Node to Another](<https://leetcode.com/problems/step-by-step-directions-from-a-binary-tree-node-to-another>)|Medium|48.8%|[2096.step-by-step-directions-from-a-binary-tree-node-to-another.java](<[2096] Step-By-Step Directions From a Binary Tree Node to Another/2096.step-by-step-directions-from-a-binary-tree-node-to-another.java>)|||Tree traversal|2022/12/21 20:13:56|
 |[\[1239\] Maximum Length of a Concatenated String with Unique Characters](<https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters>)|Medium|50.6%|[backtracking.java](<[1239] Maximum Length of a Concatenated String with Unique Characters/backtracking.java>)|||Backtracking + DFS + bitwise|2022/12/21 19:58:27|
