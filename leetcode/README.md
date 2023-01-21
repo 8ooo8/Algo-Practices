@@ -4,7 +4,9 @@ _The leetcode files and this README.md are generated and managed by [vim-leetcod
 
 |Question|Difficulty|Acceptance|Solution|Time|Space|Note|Last modified time|
 |-|-|-|-|-|-|-|-|
-|[\[1712\] Ways to Split Array Into Three Subarrays](<https://leetcode.com/problems/ways-to-split-array-into-three-subarrays>)|Medium|32.4%|[1712.ways-to-split-array-into-three-subarrays.java](<[1712] Ways to Split Array Into Three Subarrays/1712.ways-to-split-array-into-three-subarrays.java>)|||3 pointers|2022/12/23 06:15:20|
+|[\[885\] Spiral Matrix III](<https://leetcode.com/problems/spiral-matrix-iii>)|Medium|73.0%|[885.spiral-matrix-iii.java](<[885] Spiral Matrix III/885.spiral-matrix-iii.java>)||||2023/01/21 00:11:46|
+|[\[1712\] Ways to Split Array Into Three Subarrays](<https://leetcode.com/problems/ways-to-split-array-into-three-subarrays>)|Medium|32.4%|[1712.ways-to-split-array-into-three-subarrays.java](<[1712] Ways to Split Array Into Three Subarrays/1712.ways-to-split-array-into-three-subarrays.java>)|||3 pointers|2023/01/08 06:35:15|
+|[\[1004\] Max Consecutive Ones III](<https://leetcode.com/problems/max-consecutive-ones-iii>)|Medium|63.1%|[1004.max-consecutive-ones-iii.java](<[1004] Max Consecutive Ones III/1004.max-consecutive-ones-iii.java>)|||Sliding window|2023/01/08 06:34:10|
 |[\[2405\] Optimal Partition of String](<https://leetcode.com/problems/optimal-partition-of-string>)|Medium|74.1%|[2405.optimal-partition-of-string.java](<[2405] Optimal Partition of String/2405.optimal-partition-of-string.java>)|||Hashtable|2022/12/22 23:39:25|
 |[\[1647\] Minimum Deletions to Make Character Frequencies Unique](<https://leetcode.com/problems/minimum-deletions-to-make-character-frequencies-unique>)|Medium|59.2%|[revision.java](<[1647] Minimum Deletions to Make Character Frequencies Unique/revision.java>)|O(n + K * logK)||Hashtable + sort|2022/12/22 20:37:37|
 ||||[priority_queue.java](<[1647] Minimum Deletions to Make Character Frequencies Unique/priority_queue.java>)|O(n + K^2 * logK)||Heap|2022/12/22 20:35:03|
@@ -93,7 +95,6 @@ _The leetcode files and this README.md are generated and managed by [vim-leetcod
 |[\[704\] Binary Search](<https://leetcode.com/problems/binary-search>)|Easy|55.2%|[704.binary-search.java](<[704] Binary Search/704.binary-search.java>)|||Binary search|2022/06/05 08:26:38|
 |[\[853\] Car Fleet](<https://leetcode.com/problems/car-fleet>)|Medium|48.4%|[853.car-fleet.java](<[853] Car Fleet/853.car-fleet.java>)||||2022/06/05 08:26:18|
 |[\[52\] N-Queens II](<https://leetcode.com/problems/n-queens-ii>)|Hard|68.3%|[52.n-queens-ii.java](<[52] N-Queens II/52.n-queens-ii.java>)|||DFS|2022/06/05 08:16:32|
-|[\[1004\] Max Consecutive Ones III](<https://leetcode.com/problems/max-consecutive-ones-iii>)|Medium|63.1%|[1004.max-consecutive-ones-iii.java](<[1004] Max Consecutive Ones III/1004.max-consecutive-ones-iii.java>)|||Sliding window|2022/06/05 05:46:00|
 |[\[101\] Symmetric Tree](<https://leetcode.com/problems/symmetric-tree>)|Easy|51.7%|[101.symmetric-tree.java](<[101] Symmetric Tree/101.symmetric-tree.java>)||||2022/06/05 02:40:04|
 |[\[304\] Range Sum Query 2D - Immutable](<https://leetcode.com/problems/range-sum-query-2d-immutable>)|Medium|47.9%|[304.range-sum-query-2d-immutable.java](<[304] Range Sum Query 2D - Immutable/304.range-sum-query-2d-immutable.java>)||||2022/06/04 10:33:59|
 |[\[51\] N-Queens](<https://leetcode.com/problems/n-queens>)|Hard|57.8%|[51.n-queens.java](<[51] N-Queens/51.n-queens.java>)|||DFS|2022/06/04 10:11:26|
