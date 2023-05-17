@@ -4,6 +4,12 @@ _The leetcode files and this README.md are generated and managed by [vim-leetcod
 
 |Question|Difficulty|Acceptance|Solution|Time|Space|Note|Last modified time|
 |-|-|-|-|-|-|-|-|
+|[\[2104\] Sum of Subarray Ranges](<https://leetcode.com/problems/sum-of-subarray-ranges>)|Medium|60.5%|[monotonic stack.java](<[2104] Sum of Subarray Ranges/monotonic stack.java>)|||Monotonic stack + Math|2023/05/17 06:54:05|
+||||[revision.java](<[2104] Sum of Subarray Ranges/revision.java>)||||2023/05/17 05:14:39|
+|[\[1268\] Search Suggestions System](<https://leetcode.com/problems/search-suggestions-system>)|Medium|65.3%|[revision 2.java](<[1268] Search Suggestions System/revision 2.java>)|||Trie + DFS|2023/05/17 03:42:13|
+||||[revision.java](<[1268] Search Suggestions System/revision.java>)|||binary search (while-loop)|2023/05/17 02:21:54|
+|[\[937\] Reorder Data in Log Files](<https://leetcode.com/problems/reorder-data-in-log-files>)|Easy|56.1%|[revision2.java](<[937] Reorder Data in Log Files/revision2.java>)|||Put all the logic inside the comparator to Arrays.sort() (note that Arrays.sort() is actually stable)|2023/05/17 00:20:06|
+||||[revision.java](<[937] Reorder Data in Log Files/revision.java>)|||Firstly manually move digit-logs to the end, then Arrays.sort() to reorder the letter-logs|2023/05/17 00:07:13|
 |[\[1152\] Analyze User Website Visit Pattern](<https://leetcode.com/problems/analyze-user-website-visit-pattern>)|Medium|43.3%|[revision (brute force 2).java](<[1152] Analyze User Website Visit Pattern/revision (brute force 2).java>)|||Hashing + heap|2023/05/16 15:40:59|
 ||||[revision (brute force).java](<[1152] Analyze User Website Visit Pattern/revision (brute force).java>)|||Hashing + Red-black tree|2023/05/16 04:19:30|
 |[\[1\] Two Sum](<https://leetcode.com/problems/two-sum>)|Easy|48.0%|[revision.java](<[1] Two Sum/revision.java>)||||2023/05/15 07:29:35|
