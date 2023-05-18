@@ -4,6 +4,12 @@ _The leetcode files and this README.md are generated and managed by [vim-leetcod
 
 |Question|Difficulty|Acceptance|Solution|Time|Space|Note|Last modified time|
 |-|-|-|-|-|-|-|-|
+|[\[926\] Flip String to Monotone Increasing](<https://leetcode.com/problems/flip-string-to-monotone-increasing>)|Medium|59.0%|[DP.java](<[926] Flip String to Monotone Increasing/DP.java>)|||DP|2023/05/18 02:45:58|
+||||[revision 2.java](<[926] Flip String to Monotone Increasing/revision 2.java>)|||Dynamic window (cleaner version)|2023/05/18 00:32:19|
+||||[revision.java](<[926] Flip String to Monotone Increasing/revision.java>)|||Dynamic window|2023/05/18 00:19:29|
+|[\[1041\] Robot Bounded In Circle](<https://leetcode.com/problems/robot-bounded-in-circle>)|Medium|55.4%|[revision.java](<[1041] Robot Bounded In Circle/revision.java>)||||2023/05/17 23:46:24|
+|[\[146\] LRU Cache](<https://leetcode.com/problems/lru-cache>)|Medium|40.1%|[revision.java](<[146] LRU Cache/revision.java>)|||LinkedHashMap|2023/05/17 22:48:52|
+|[\[2214\] Minimum Health to Beat Game](<https://leetcode.com/problems/minimum-health-to-beat-game>)|Medium|56.2%|[revision.java](<[2214] Minimum Health to Beat Game/revision.java>)|||Greedy|2023/05/17 12:51:51|
 |[\[2104\] Sum of Subarray Ranges](<https://leetcode.com/problems/sum-of-subarray-ranges>)|Medium|60.5%|[monotonic stack.java](<[2104] Sum of Subarray Ranges/monotonic stack.java>)|||Monotonic stack + Math|2023/05/17 06:54:05|
 ||||[revision.java](<[2104] Sum of Subarray Ranges/revision.java>)||||2023/05/17 05:14:39|
 |[\[1268\] Search Suggestions System](<https://leetcode.com/problems/search-suggestions-system>)|Medium|65.3%|[revision 2.java](<[1268] Search Suggestions System/revision 2.java>)|||Trie + DFS|2023/05/17 03:42:13|
