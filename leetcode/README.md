@@ -4,6 +4,9 @@ _The leetcode files and this README.md are generated and managed by [vim-leetcod
 
 |Question|Difficulty|Acceptance|Solution|Time|Space|Note|Last modified time|
 |-|-|-|-|-|-|-|-|
+|[\[370\] Range Addition](<https://leetcode.com/problems/range-addition>)|Medium|71.1%|[Range caching.java](<[370] Range Addition/Range caching.java>)|||Split range into 2 - one is \[start, end-of-array, value] & one is \[end + 1, end-of-array, -value]|2023/05/19 23:47:21|
+||||[brute force.java](<[370] Range Addition/brute force.java>)||||2023/05/19 23:35:29|
+|[\[1167\] Minimum Cost to Connect Sticks](<https://leetcode.com/problems/minimum-cost-to-connect-sticks>)|Medium|68.2%|[revision.java](<[1167] Minimum Cost to Connect Sticks/revision.java>)|||Greedy + heap|2023/05/19 16:49:10|
 |[\[253\] Meeting Rooms II](<https://leetcode.com/problems/meeting-rooms-ii>)|Medium|49.9%|[Sort + 2 pointers.java](<[253] Meeting Rooms II/Sort + 2 pointers.java>)|||Sort + 2 pointers|2023/05/19 16:20:41|
 ||||[Sort + heap.java](<[253] Meeting Rooms II/Sort + heap.java>)|||Sort + heap|2023/05/19 16:20:29|
 |[\[200\] Number of Islands](<https://leetcode.com/problems/number-of-islands>)|Medium|50.2%|[BFS.java](<[200] Number of Islands/BFS.java>)|||BFS|2023/05/19 09:23:09|
