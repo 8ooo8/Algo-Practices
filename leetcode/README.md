@@ -4,6 +4,9 @@ _The leetcode files and this README.md are generated and managed by [vim-leetcod
 
 |Question|Difficulty|Acceptance|Solution|Time|Space|Note|Last modified time|
 |-|-|-|-|-|-|-|-|
+|[\[1648\] Sell Diminishing-Valued Colored Balls](<https://leetcode.com/problems/sell-diminishing-valued-colored-balls>)|Medium|30.4%|[1648.sell-diminishing-valued-colored-balls.java](<[1648] Sell Diminishing-Valued Colored Balls/1648.sell-diminishing-valued-colored-balls.java>)||||2023/05/21 08:39:13|
+|[\[973\] K Closest Points to Origin](<https://leetcode.com/problems/k-closest-points-to-origin>)|Medium|65.9%|[revision.java](<[973] K Closest Points to Origin/revision.java>)|||Sort|2023/05/20 00:39:12|
+|[\[1151\] Minimum Swaps to Group All 1s Together](<https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together>)|Medium|59.5%|[revision 2.java](<[1151] Minimum Swaps to Group All 1s Together/revision 2.java>)|||Sliding window|2023/05/20 00:15:46|
 |[\[370\] Range Addition](<https://leetcode.com/problems/range-addition>)|Medium|71.1%|[Range caching.java](<[370] Range Addition/Range caching.java>)|||Split range into 2 - one is \[start, end-of-array, value] & one is \[end + 1, end-of-array, -value]|2023/05/19 23:47:21|
 ||||[brute force.java](<[370] Range Addition/brute force.java>)||||2023/05/19 23:35:29|
 |[\[1167\] Minimum Cost to Connect Sticks](<https://leetcode.com/problems/minimum-cost-to-connect-sticks>)|Medium|68.2%|[revision.java](<[1167] Minimum Cost to Connect Sticks/revision.java>)|||Greedy + heap|2023/05/19 16:49:10|
