@@ -15,7 +15,7 @@ class Solution {
     public int minimumRounds(int[] tasks) {
         Map<Integer, Integer> difficultyCount = new HashMap<>(); // <difficulty, count>
         for (int d : tasks)
-            difficultyCount.put(d, difficultyCount.getOrDefault(d, 0) + 1);
+            difficultyCount.merge(d, 1, Integer::sum);
 
         int rounds = 0;
         for (int c : difficultyCount.values()) {

@@ -4,7 +4,9 @@ _The leetcode files and this README.md are generated and managed by [vim-leetcod
 
 |Question|Difficulty|Acceptance|Solution|Time|Space|Note|Last modified time|
 |-|-|-|-|-|-|-|-|
-|[\[2244\] Minimum Rounds to Complete All Tasks](<https://leetcode.com/problems/minimum-rounds-to-complete-all-tasks>)|Medium|63.1%|[2244.minimum-rounds-to-complete-all-tasks.java](<[2244] Minimum Rounds to Complete All Tasks/2244.minimum-rounds-to-complete-all-tasks.java>)|||Hashing|2023/05/23 07:19:54|
+|[\[2256\] Minimum Average Difference](<https://leetcode.com/problems/minimum-average-difference>)|Medium|43.1%|[Prefix Sum (O(1) space).java](<[2256] Minimum Average Difference/Prefix Sum (O(1) space).java>)||O(1)|Prefix sum with O(1) space|2023/05/23 16:14:40|
+||||[2256.minimum-average-difference.java](<[2256] Minimum Average Difference/2256.minimum-average-difference.java>)|||Prefix sum|2023/05/23 15:41:33|
+|[\[2244\] Minimum Rounds to Complete All Tasks](<https://leetcode.com/problems/minimum-rounds-to-complete-all-tasks>)|Medium|63.1%|[2244.minimum-rounds-to-complete-all-tasks.java](<[2244] Minimum Rounds to Complete All Tasks/2244.minimum-rounds-to-complete-all-tasks.java>)|||Hashing|2023/05/23 07:26:26|
 |[\[56\] Merge Intervals](<https://leetcode.com/problems/merge-intervals>)|Medium|46.1%|[56.merge-intervals.java](<[56] Merge Intervals/56.merge-intervals.java>)|O(N*logN)||Heap|2023/05/23 06:42:25|
 |[\[545\] Boundary of Binary Tree](<https://leetcode.com/problems/boundary-of-binary-tree>)|Medium|44.4%|[545.boundary-of-binary-tree.java](<[545] Boundary of Binary Tree/545.boundary-of-binary-tree.java>)|||Preorder + postorder traversal. 1ms beats 100%. short & clean.|2023/05/23 06:22:04|
 |[\[1730\] Shortest Path to Get Food](<https://leetcode.com/problems/shortest-path-to-get-food>)|Medium|54.4%|[BFS.java](<[1730] Shortest Path to Get Food/BFS.java>)|||BFS|2023/05/23 04:49:39|
