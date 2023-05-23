@@ -4,6 +4,7 @@ _The leetcode files and this README.md are generated and managed by [vim-leetcod
 
 |Question|Difficulty|Acceptance|Solution|Time|Space|Note|Last modified time|
 |-|-|-|-|-|-|-|-|
+|[\[56\] Merge Intervals](<https://leetcode.com/problems/merge-intervals>)|Medium|46.1%|[56.merge-intervals.java](<[56] Merge Intervals/56.merge-intervals.java>)|O(N*logN)||Heap|2023/05/23 06:42:25|
 |[\[545\] Boundary of Binary Tree](<https://leetcode.com/problems/boundary-of-binary-tree>)|Medium|44.4%|[545.boundary-of-binary-tree.java](<[545] Boundary of Binary Tree/545.boundary-of-binary-tree.java>)|||Preorder + postorder traversal. 1ms beats 100%. short & clean.|2023/05/23 06:22:04|
 |[\[1730\] Shortest Path to Get Food](<https://leetcode.com/problems/shortest-path-to-get-food>)|Medium|54.4%|[BFS.java](<[1730] Shortest Path to Get Food/BFS.java>)|||BFS|2023/05/23 04:49:39|
 |[\[1567\] Maximum Length of Subarray With Positive Product](<https://leetcode.com/problems/maximum-length-of-subarray-with-positive-product>)|Medium|43.2%|[DP.java](<[1567] Maximum Length of Subarray With Positive Product/DP.java>)|O(n)|O(1)|DP|2023/05/23 01:39:58|
