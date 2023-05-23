@@ -4,7 +4,12 @@ _The leetcode files and this README.md are generated and managed by [vim-leetcod
 
 |Question|Difficulty|Acceptance|Solution|Time|Space|Note|Last modified time|
 |-|-|-|-|-|-|-|-|
-|[\[1648\] Sell Diminishing-Valued Colored Balls](<https://leetcode.com/problems/sell-diminishing-valued-colored-balls>)|Medium|30.4%|[1648.sell-diminishing-valued-colored-balls.java](<[1648] Sell Diminishing-Valued Colored Balls/1648.sell-diminishing-valued-colored-balls.java>)||||2023/05/21 08:39:13|
+|[\[545\] Boundary of Binary Tree](<https://leetcode.com/problems/boundary-of-binary-tree>)|Medium|44.4%|[545.boundary-of-binary-tree.java](<[545] Boundary of Binary Tree/545.boundary-of-binary-tree.java>)|||Preorder + postorder traversal. 1ms beats 100%. short & clean.|2023/05/23 06:22:04|
+|[\[1730\] Shortest Path to Get Food](<https://leetcode.com/problems/shortest-path-to-get-food>)|Medium|54.4%|[BFS.java](<[1730] Shortest Path to Get Food/BFS.java>)|||BFS|2023/05/23 04:49:39|
+|[\[1567\] Maximum Length of Subarray With Positive Product](<https://leetcode.com/problems/maximum-length-of-subarray-with-positive-product>)|Medium|43.2%|[DP.java](<[1567] Maximum Length of Subarray With Positive Product/DP.java>)|O(n)|O(1)|DP|2023/05/23 01:39:58|
+||||[revision.java](<[1567] Maximum Length of Subarray With Positive Product/revision.java>)|||2 pointers|2023/05/23 01:01:28|
+|[\[1648\] Sell Diminishing-Valued Colored Balls](<https://leetcode.com/problems/sell-diminishing-valued-colored-balls>)|Medium|30.4%|[revision.java](<[1648] Sell Diminishing-Valued Colored Balls/revision.java>)|||Same concept as my previous solution but starting from another perspective|2023/05/21 18:39:14|
+||||[1648.sell-diminishing-valued-colored-balls.java](<[1648] Sell Diminishing-Valued Colored Balls/1648.sell-diminishing-valued-colored-balls.java>)||||2023/05/21 08:39:13|
 |[\[973\] K Closest Points to Origin](<https://leetcode.com/problems/k-closest-points-to-origin>)|Medium|65.9%|[revision.java](<[973] K Closest Points to Origin/revision.java>)|||Sort|2023/05/20 00:39:12|
 |[\[1151\] Minimum Swaps to Group All 1s Together](<https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together>)|Medium|59.5%|[revision 2.java](<[1151] Minimum Swaps to Group All 1s Together/revision 2.java>)|||Sliding window|2023/05/20 00:15:46|
 |[\[370\] Range Addition](<https://leetcode.com/problems/range-addition>)|Medium|71.1%|[Range caching.java](<[370] Range Addition/Range caching.java>)|||Split range into 2 - one is \[start, end-of-array, value] & one is \[end + 1, end-of-array, -value]|2023/05/19 23:47:21|
