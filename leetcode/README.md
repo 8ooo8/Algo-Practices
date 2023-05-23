@@ -4,6 +4,7 @@ _The leetcode files and this README.md are generated and managed by [vim-leetcod
 
 |Question|Difficulty|Acceptance|Solution|Time|Space|Note|Last modified time|
 |-|-|-|-|-|-|-|-|
+|[\[2244\] Minimum Rounds to Complete All Tasks](<https://leetcode.com/problems/minimum-rounds-to-complete-all-tasks>)|Medium|63.1%|[2244.minimum-rounds-to-complete-all-tasks.java](<[2244] Minimum Rounds to Complete All Tasks/2244.minimum-rounds-to-complete-all-tasks.java>)|||Hashing|2023/05/23 07:19:54|
 |[\[56\] Merge Intervals](<https://leetcode.com/problems/merge-intervals>)|Medium|46.1%|[56.merge-intervals.java](<[56] Merge Intervals/56.merge-intervals.java>)|O(N*logN)||Heap|2023/05/23 06:42:25|
 |[\[545\] Boundary of Binary Tree](<https://leetcode.com/problems/boundary-of-binary-tree>)|Medium|44.4%|[545.boundary-of-binary-tree.java](<[545] Boundary of Binary Tree/545.boundary-of-binary-tree.java>)|||Preorder + postorder traversal. 1ms beats 100%. short & clean.|2023/05/23 06:22:04|
 |[\[1730\] Shortest Path to Get Food](<https://leetcode.com/problems/shortest-path-to-get-food>)|Medium|54.4%|[BFS.java](<[1730] Shortest Path to Get Food/BFS.java>)|||BFS|2023/05/23 04:49:39|
