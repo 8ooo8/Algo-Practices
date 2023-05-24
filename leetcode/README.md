@@ -4,6 +4,7 @@ _The leetcode files and this README.md are generated and managed by [vim-leetcod
 
 |Question|Difficulty|Acceptance|Solution|Time|Space|Note|Last modified time|
 |-|-|-|-|-|-|-|-|
+|[\[2482\] Difference Between Ones and Zeros in Row and Column](<https://leetcode.com/problems/difference-between-ones-and-zeros-in-row-and-column>)|Medium|80.1%|[2482.difference-between-ones-and-zeros-in-row-and-column.java](<[2482] Difference Between Ones and Zeros in Row and Column/2482.difference-between-ones-and-zeros-in-row-and-column.java>)|||Memoization. short & clean.|2023/05/23 17:07:23|
 |[\[2256\] Minimum Average Difference](<https://leetcode.com/problems/minimum-average-difference>)|Medium|43.1%|[Prefix Sum (O(1) space).java](<[2256] Minimum Average Difference/Prefix Sum (O(1) space).java>)||O(1)|Prefix sum with O(1) space|2023/05/23 16:14:40|
 ||||[2256.minimum-average-difference.java](<[2256] Minimum Average Difference/2256.minimum-average-difference.java>)|||Prefix sum|2023/05/23 15:41:33|
 |[\[2244\] Minimum Rounds to Complete All Tasks](<https://leetcode.com/problems/minimum-rounds-to-complete-all-tasks>)|Medium|63.1%|[2244.minimum-rounds-to-complete-all-tasks.java](<[2244] Minimum Rounds to Complete All Tasks/2244.minimum-rounds-to-complete-all-tasks.java>)|||Hashing|2023/05/23 07:26:26|
