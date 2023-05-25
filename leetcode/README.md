@@ -4,6 +4,11 @@ _The leetcode files and this README.md are generated and managed by [vim-leetcod
 
 |Question|Difficulty|Acceptance|Solution|Time|Space|Note|Last modified time|
 |-|-|-|-|-|-|-|-|
+|[\[662\] Maximum Width of Binary Tree](<https://leetcode.com/problems/maximum-width-of-binary-tree>)|Medium|40.7%|[DFS.java](<[662] Maximum Width of Binary Tree/DFS.java>)|||DFS. 1ms beats 100%. short & clean.|2023/05/24 19:01:33|
+||||[662.maximum-width-of-binary-tree.java](<[662] Maximum Width of Binary Tree/662.maximum-width-of-binary-tree.java>)|||BFS|2023/05/24 18:20:42|
+|[\[1254\] Number of Closed Islands](<https://leetcode.com/problems/number-of-closed-islands>)|Medium|64.1%|[1254.number-of-closed-islands.java](<[1254] Number of Closed Islands/1254.number-of-closed-islands.java>)|||DFS. short & clean.|2023/05/24 06:21:58|
+|[\[1884\] Egg Drop With 2 Eggs and N Floors](<https://leetcode.com/problems/egg-drop-with-2-eggs-and-n-floors>)|Medium|70.5%|[1884.egg-drop-with-2-eggs-and-n-floors.js.java](<[1884] Egg Drop With 2 Eggs and N Floors/1884.egg-drop-with-2-eggs-and-n-floors.js.java>)||O(1)|DP. 3 lines. short & clean.|2023/05/24 05:35:31|
+||||[revision.java](<[1884] Egg Drop With 2 Eggs and N Floors/revision.java>)||||2023/05/24 02:50:16|
 |[\[2486\] Append Characters to String to Make Subsequence](<https://leetcode.com/problems/append-characters-to-string-to-make-subsequence>)|Medium|63.9%|[optimized.java](<[2486] Append Characters to String to Make Subsequence/optimized.java>)|||2 pointers. Optimized. 3ms beats 100%.|2023/05/23 20:51:12|
 ||||[2486.append-characters-to-string-to-make-subsequence.java](<[2486] Append Characters to String to Make Subsequence/2486.append-characters-to-string-to-make-subsequence.java>)|||2 pointers. 4 lines. short & clean.|2023/05/23 20:40:04|
 |[\[2482\] Difference Between Ones and Zeros in Row and Column](<https://leetcode.com/problems/difference-between-ones-and-zeros-in-row-and-column>)|Medium|80.1%|[2482.difference-between-ones-and-zeros-in-row-and-column.java](<[2482] Difference Between Ones and Zeros in Row and Column/2482.difference-between-ones-and-zeros-in-row-and-column.java>)|||Memoization. short & clean.|2023/05/23 17:07:23|
