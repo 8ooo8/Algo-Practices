@@ -4,7 +4,10 @@ _The leetcode files and this README.md are generated and managed by [vim-leetcod
 
 |Question|Difficulty|Acceptance|Solution|Time|Space|Note|Last modified time|
 |-|-|-|-|-|-|-|-|
-|[\[662\] Maximum Width of Binary Tree](<https://leetcode.com/problems/maximum-width-of-binary-tree>)|Medium|40.7%|[DFS.java](<[662] Maximum Width of Binary Tree/DFS.java>)|||DFS. 1ms beats 100%. short & clean.|2023/05/24 19:01:33|
+|[\[538\] Convert BST to Greater Tree](<https://leetcode.com/problems/convert-bst-to-greater-tree>)|Medium|67.6%|[Morris traversal.java](<[538] Convert BST to Greater Tree/Morris traversal.java>)|O(n)|O(1)|Morris traversal (O(1) space)|2023/05/25 02:31:58|
+||||[stack.java](<[538] Convert BST to Greater Tree/stack.java>)|||Stack to emulate the call stack in a recursive solution|2023/05/25 01:12:20|
+||||[538.convert-bst-to-greater-tree.java](<[538] Convert BST to Greater Tree/538.convert-bst-to-greater-tree.java>)|||Reverse in-order traversal. 0ms beats 100%. 2 lines + method w/ 3-lines body. short & clean.|2023/05/24 23:30:37|
+|[\[662\] Maximum Width of Binary Tree](<https://leetcode.com/problems/maximum-width-of-binary-tree>)|Medium|40.7%|[DFS.java](<[662] Maximum Width of Binary Tree/DFS.java>)|||DFS. 1ms beats 100%. short & clean.|2023/05/24 19:02:41|
 ||||[662.maximum-width-of-binary-tree.java](<[662] Maximum Width of Binary Tree/662.maximum-width-of-binary-tree.java>)|||BFS|2023/05/24 18:20:42|
 |[\[1254\] Number of Closed Islands](<https://leetcode.com/problems/number-of-closed-islands>)|Medium|64.1%|[1254.number-of-closed-islands.java](<[1254] Number of Closed Islands/1254.number-of-closed-islands.java>)|||DFS. short & clean.|2023/05/24 06:21:58|
 |[\[1884\] Egg Drop With 2 Eggs and N Floors](<https://leetcode.com/problems/egg-drop-with-2-eggs-and-n-floors>)|Medium|70.5%|[1884.egg-drop-with-2-eggs-and-n-floors.js.java](<[1884] Egg Drop With 2 Eggs and N Floors/1884.egg-drop-with-2-eggs-and-n-floors.js.java>)||O(1)|DP. 3 lines. short & clean.|2023/05/24 05:35:31|
