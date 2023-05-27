@@ -4,7 +4,8 @@ _The leetcode files and this README.md are generated and managed by [vim-leetcod
 
 |Question|Difficulty|Acceptance|Solution|Time|Space|Note|Last modified time|
 |-|-|-|-|-|-|-|-|
-|[\[538\] Convert BST to Greater Tree](<https://leetcode.com/problems/convert-bst-to-greater-tree>)|Medium|67.6%|[Morris traversal.java](<[538] Convert BST to Greater Tree/Morris traversal.java>)|O(n)|O(1)|Morris traversal (O(1) space)|2023/05/25 02:31:58|
+|[\[54\] Spiral Matrix](<https://leetcode.com/problems/spiral-matrix>)|Medium|41.8%|[revision.java](<[54] Spiral Matrix/revision.java>)|||short & clean|2023/05/27 05:51:47|
+|[\[538\] Convert BST to Greater Tree](<https://leetcode.com/problems/convert-bst-to-greater-tree>)|Medium|67.6%|[Morris traversal.java](<[538] Convert BST to Greater Tree/Morris traversal.java>)|O(n)|O(1)|Morris traversal (O(1) space)|2023/05/25 03:29:14|
 ||||[stack.java](<[538] Convert BST to Greater Tree/stack.java>)|||Stack to emulate the call stack in a recursive solution|2023/05/25 01:12:20|
 ||||[538.convert-bst-to-greater-tree.java](<[538] Convert BST to Greater Tree/538.convert-bst-to-greater-tree.java>)|||Reverse in-order traversal. 0ms beats 100%. 2 lines + method w/ 3-lines body. short & clean.|2023/05/24 23:30:37|
 |[\[662\] Maximum Width of Binary Tree](<https://leetcode.com/problems/maximum-width-of-binary-tree>)|Medium|40.7%|[DFS.java](<[662] Maximum Width of Binary Tree/DFS.java>)|||DFS. 1ms beats 100%. short & clean.|2023/05/24 19:02:41|
