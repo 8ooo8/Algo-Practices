@@ -4,7 +4,9 @@ _The leetcode files and this README.md are generated and managed by [vim-leetcod
 
 |Question|Difficulty|Acceptance|Solution|Time|Space|Note|Last modified time|
 |-|-|-|-|-|-|-|-|
-|[\[54\] Spiral Matrix](<https://leetcode.com/problems/spiral-matrix>)|Medium|41.8%|[revision.java](<[54] Spiral Matrix/revision.java>)|||short & clean|2023/05/27 05:51:47|
+|[\[1547\] Minimum Cost to Cut a Stick](<https://leetcode.com/problems/minimum-cost-to-cut-a-stick>)|Hard|57.1%|[bottom-up DP.java](<[1547] Minimum Cost to Cut a Stick/bottom-up DP.java>)|||Bottom-up DP|2023/05/29 02:00:01|
+||||[top-down DP.java](<[1547] Minimum Cost to Cut a Stick/top-down DP.java>)|||Top-down DP|2023/05/28 09:37:41|
+|[\[54\] Spiral Matrix](<https://leetcode.com/problems/spiral-matrix>)|Medium|41.8%|[revision.java](<[54] Spiral Matrix/revision.java>)|||short & clean|2023/05/27 05:58:51|
 |[\[538\] Convert BST to Greater Tree](<https://leetcode.com/problems/convert-bst-to-greater-tree>)|Medium|67.6%|[Morris traversal.java](<[538] Convert BST to Greater Tree/Morris traversal.java>)|O(n)|O(1)|Morris traversal (O(1) space)|2023/05/25 03:29:14|
 ||||[stack.java](<[538] Convert BST to Greater Tree/stack.java>)|||Stack to emulate the call stack in a recursive solution|2023/05/25 01:12:20|
 ||||[538.convert-bst-to-greater-tree.java](<[538] Convert BST to Greater Tree/538.convert-bst-to-greater-tree.java>)|||Reverse in-order traversal. 0ms beats 100%. 2 lines + method w/ 3-lines body. short & clean.|2023/05/24 23:30:37|
