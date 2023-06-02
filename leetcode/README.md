@@ -4,6 +4,10 @@ _The leetcode files and this README.md are generated and managed by [vim-leetcod
 
 |Question|Difficulty|Acceptance|Solution|Time|Space|Note|Last modified time|
 |-|-|-|-|-|-|-|-|
+|[\[1091\] Shortest Path in Binary Matrix](<https://leetcode.com/problems/shortest-path-in-binary-matrix>)|Medium|41.7%|[BFS.java](<[1091] Shortest Path in Binary Matrix/BFS.java>)|||BFS. short & clean.|2023/06/01 09:21:58|
+|[\[705\] Design HashSet](<https://leetcode.com/problems/design-hashset>)|Easy|65.8%|[705.design-hashset.java](<[705] Design HashSet/705.design-hashset.java>)|||Array + linked list to implement HashSet. Better use Red-Black tree.|2023/06/01 01:10:38|
+|[\[1603\] Design Parking System](<https://leetcode.com/problems/design-parking-system>)|Easy|88.0%|[1 array.java](<[1603] Design Parking System/1 array.java>)|||1 array created (less space)|2023/05/29 02:23:08|
+||||[1603.design-parking-system.java](<[1603] Design Parking System/1603.design-parking-system.java>)||||2023/05/29 02:19:51|
 |[\[1547\] Minimum Cost to Cut a Stick](<https://leetcode.com/problems/minimum-cost-to-cut-a-stick>)|Hard|57.1%|[bottom-up DP.java](<[1547] Minimum Cost to Cut a Stick/bottom-up DP.java>)|||Bottom-up DP|2023/05/29 02:00:01|
 ||||[top-down DP.java](<[1547] Minimum Cost to Cut a Stick/top-down DP.java>)|||Top-down DP|2023/05/28 09:37:41|
 |[\[54\] Spiral Matrix](<https://leetcode.com/problems/spiral-matrix>)|Medium|41.8%|[revision.java](<[54] Spiral Matrix/revision.java>)|||short & clean|2023/05/27 05:58:51|
