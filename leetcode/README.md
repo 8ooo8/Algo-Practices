@@ -4,7 +4,16 @@ _The leetcode files and this README.md are generated and managed by [vim-leetcod
 
 |Question|Difficulty|Acceptance|Solution|Time|Space|Note|Last modified time|
 |-|-|-|-|-|-|-|-|
-|[\[1091\] Shortest Path in Binary Matrix](<https://leetcode.com/problems/shortest-path-in-binary-matrix>)|Medium|41.7%|[BFS.java](<[1091] Shortest Path in Binary Matrix/BFS.java>)|||BFS. short & clean.|2023/06/01 09:21:58|
+|[\[459\] Repeated Substring Pattern](<https://leetcode.com/problems/repeated-substring-pattern>)|Easy|43.7%|[approach-3.java](<[459] Repeated Substring Pattern/approach-3.java>)|||short & clean. regex.|2023/08/20 20:05:21|
+||||[approach-2.java](<[459] Repeated Substring Pattern/approach-2.java>)||||2023/08/20 19:49:07|
+||||[459.repeated-substring-pattern.java](<[459] Repeated Substring Pattern/459.repeated-substring-pattern.java>)||||2023/08/20 19:47:10|
+|[\[139\] Word Break](<https://leetcode.com/problems/word-break>)|Medium|45.5%|[139.word-break.java](<[139] Word Break/139.word-break.java>)|||DP|2023/08/20 07:45:50|
+|[\[1376\] Time Needed to Inform All Employees](<https://leetcode.com/problems/time-needed-to-inform-all-employees>)|Medium|58.4%|[1376.time-needed-to-inform-all-employees.java](<[1376] Time Needed to Inform All Employees/1376.time-needed-to-inform-all-employees.java>)|||DFS|2023/06/03 07:32:07|
+|[\[2101\] Detonate the Maximum Bombs](<https://leetcode.com/problems/detonate-the-maximum-bombs>)|Medium|41.9%|[DFS + memo - v2.java](<[2101] Detonate the Maximum Bombs/DFS + memo - v2.java>)|||DFS + memo (another version)|2023/06/03 07:00:26|
+||||[2101.detonate-the-maximum-bombs.java](<[2101] Detonate the Maximum Bombs/2101.detonate-the-maximum-bombs.java>)|||DFS + memo (memorizing everything)|2023/06/03 06:59:29|
+|[\[1427\] Perform String Shifts](<https://leetcode.com/problems/perform-string-shifts>)|Easy|54.3%|[1427.perform-string-shifts.java](<[1427] Perform String Shifts/1427.perform-string-shifts.java>)|||Compute net shift. 0ms. 5-liner. short & clean.|2023/06/01 18:31:09|
+|[\[1056\] Confusing Number](<https://leetcode.com/problems/confusing-number>)|Easy|48.1%|[1056.confusing-number.java](<[1056] Confusing Number/1056.confusing-number.java>)|||0ms. short & clean.|2023/06/01 18:06:15|
+|[\[1091\] Shortest Path in Binary Matrix](<https://leetcode.com/problems/shortest-path-in-binary-matrix>)|Medium|41.7%|[BFS.java](<[1091] Shortest Path in Binary Matrix/BFS.java>)|||BFS. short & clean.|2023/06/01 17:48:21|
 |[\[705\] Design HashSet](<https://leetcode.com/problems/design-hashset>)|Easy|65.8%|[705.design-hashset.java](<[705] Design HashSet/705.design-hashset.java>)|||Array + linked list to implement HashSet. Better use Red-Black tree.|2023/06/01 01:10:38|
 |[\[1603\] Design Parking System](<https://leetcode.com/problems/design-parking-system>)|Easy|88.0%|[1 array.java](<[1603] Design Parking System/1 array.java>)|||1 array created (less space)|2023/05/29 02:23:08|
 ||||[1603.design-parking-system.java](<[1603] Design Parking System/1603.design-parking-system.java>)||||2023/05/29 02:19:51|
