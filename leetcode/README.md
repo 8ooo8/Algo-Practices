@@ -4,6 +4,18 @@ _The leetcode files and this README.md are generated and managed by [vim-leetcod
 
 |Question|Difficulty|Acceptance|Solution|Time|Space|Note|Last modified time|
 |-|-|-|-|-|-|-|-|
+|[\[2483\] Minimum Penalty for a Shop](<https://leetcode.com/problems/minimum-penalty-for-a-shop>)|Medium|55.5%|[2483.minimum-penalty-for-a-shop.java](<[2483] Minimum Penalty for a Shop/2483.minimum-penalty-for-a-shop.java>)|||prefix sum|2023/09/04 15:10:52|
+|[\[1410\] HTML Entity Parser](<https://leetcode.com/problems/html-entity-parser>)|Medium|53.6%|[revision.java](<[1410] HTML Entity Parser/revision.java>)|||Hashing|2023/09/03 19:18:07|
+|[\[141\] Linked List Cycle](<https://leetcode.com/problems/linked-list-cycle>)|Easy|47.2%|[o(1) space.java](<[141] Linked List Cycle/o(1) space.java>)|O(n)|O(1)|Special trick to achieve O(1) space.|2023/09/03 18:29:28|
+||||[141.linked-list-cycle.java](<[141] Linked List Cycle/141.linked-list-cycle.java>)|||Hashing|2023/09/03 18:10:30|
+|[\[300\] Longest Increasing Subsequence](<https://leetcode.com/problems/longest-increasing-subsequence>)|Medium|51.8%|[300.longest-increasing-subsequence.java](<[300] Longest Increasing Subsequence/300.longest-increasing-subsequence.java>)|||DP|2023/08/27 20:00:32|
+|[\[617\] Merge Two Binary Trees](<https://leetcode.com/problems/merge-two-binary-trees>)|Easy|78.6%|[617.merge-two-binary-trees.java](<[617] Merge Two Binary Trees/617.merge-two-binary-trees.java>)||||2023/08/27 18:53:37|
+|[\[77\] Combinations](<https://leetcode.com/problems/combinations>)|Medium|66.6%|[77.combinations.java](<[77] Combinations/77.combinations.java>)|||combination.|2023/08/27 01:38:01|
+|[\[22\] Generate Parentheses](<https://leetcode.com/problems/generate-parentheses>)|Medium|68.9%|[revision.java](<[22] Generate Parentheses/revision.java>)||||2023/08/27 00:10:26|
+|[\[20\] Valid Parentheses](<https://leetcode.com/problems/valid-parentheses>)|Easy|40.6%|[revision-2.java](<[20] Valid Parentheses/revision-2.java>)|||Hashing|2023/08/26 23:47:49|
+|[\[3\] Longest Substring Without Repeating Characters](<https://leetcode.com/problems/longest-substring-without-repeating-characters>)|Medium|32.6%|[revision-2.java](<[3] Longest Substring Without Repeating Characters/revision-2.java>)|||Hashing|2023/08/26 22:19:14|
+|[\[2\] Add Two Numbers](<https://leetcode.com/problems/add-two-numbers>)|Medium|38.8%|[revision.java](<[2] Add Two Numbers/revision.java>)|||linkedlist. 1ms beats 100%. short & clean.|2023/08/26 21:14:09|
+|[\[97\] Interleaving String](<https://leetcode.com/problems/interleaving-string>)|Medium|37.2%|[97.interleaving-string.java](<[97] Interleaving String/97.interleaving-string.java>)|||0ms beats 100%. short & clean. 2-pointers + memo.|2023/08/24 19:55:41|
 |[\[459\] Repeated Substring Pattern](<https://leetcode.com/problems/repeated-substring-pattern>)|Easy|43.7%|[approach-3.java](<[459] Repeated Substring Pattern/approach-3.java>)|||short & clean. regex.|2023/08/20 20:05:21|
 ||||[approach-2.java](<[459] Repeated Substring Pattern/approach-2.java>)||||2023/08/20 19:49:07|
 ||||[459.repeated-substring-pattern.java](<[459] Repeated Substring Pattern/459.repeated-substring-pattern.java>)||||2023/08/20 19:47:10|
