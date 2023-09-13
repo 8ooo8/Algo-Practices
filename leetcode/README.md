@@ -4,6 +4,16 @@ _The leetcode files and this README.md are generated and managed by [vim-leetcod
 
 |Question|Difficulty|Acceptance|Solution|Time|Space|Note|Last modified time|
 |-|-|-|-|-|-|-|-|
+|[\[135\] Candy](<https://leetcode.com/problems/candy>)|Hard|40.9%|[135.candy.java](<[135] Candy/135.candy.java>)|O(n)|O(n)|short & clean.|2023/09/13 03:35:33|
+|[\[377\] Combination Sum IV](<https://leetcode.com/problems/combination-sum-iv>)|Medium|52.1%|[377.combination-sum-iv.java](<[377] Combination Sum IV/377.combination-sum-iv.java>)|||Top-down DP. short & clean.|2023/09/13 02:59:47|
+|[\[118\] Pascals Triangle](<https://leetcode.com/problems/pascals-triangle>)|Easy|70.0%|[118.pascals-triangle.java](<[118] Pascals Triangle/118.pascals-triangle.java>)||||2023/09/07 19:49:39|
+|[\[967\] Numbers With Same Consecutive Differences](<https://leetcode.com/problems/numbers-with-same-consecutive-differences>)|Medium|57.0%|[revision.java](<[967] Numbers With Same Consecutive Differences/revision.java>)||||2023/09/06 02:54:07|
+|[\[1254\] Number of Closed Islands](<https://leetcode.com/problems/number-of-closed-islands>)|Medium|64.1%|[revision.java](<[1254] Number of Closed Islands/revision.java>)|||DFS|2023/09/06 01:31:33|
+|[\[662\] Maximum Width of Binary Tree](<https://leetcode.com/problems/maximum-width-of-binary-tree>)|Medium|40.7%|[revision.java](<[662] Maximum Width of Binary Tree/revision.java>)|||0ms beats 100%. short & clean. DFS. Preorder travseral.|2023/09/06 00:42:34|
+|[\[1376\] Time Needed to Inform All Employees](<https://leetcode.com/problems/time-needed-to-inform-all-employees>)|Medium|58.4%|[revision.java](<[1376] Time Needed to Inform All Employees/revision.java>)|||DFS.|2023/09/05 19:28:26|
+|[\[1760\] Minimum Limit of Balls in a Bag](<https://leetcode.com/problems/minimum-limit-of-balls-in-a-bag>)|Medium|58.4%|[revision.java](<[1760] Minimum Limit of Balls in a Bag/revision.java>)|||Binary search.|2023/09/05 19:12:38|
+|[\[1268\] Search Suggestions System](<https://leetcode.com/problems/search-suggestions-system>)|Medium|65.3%|[revision 3.java](<[1268] Search Suggestions System/revision 3.java>)|||Binary search.|2023/09/05 18:37:14|
+|[\[729\] My Calendar I](<https://leetcode.com/problems/my-calendar-i>)|Medium|57.2%|[revision.java](<[729] My Calendar I/revision.java>)|||Binary search tree.|2023/09/05 18:36:38|
 |[\[2483\] Minimum Penalty for a Shop](<https://leetcode.com/problems/minimum-penalty-for-a-shop>)|Medium|55.5%|[2483.minimum-penalty-for-a-shop.java](<[2483] Minimum Penalty for a Shop/2483.minimum-penalty-for-a-shop.java>)|||prefix sum|2023/09/04 15:10:52|
 |[\[1410\] HTML Entity Parser](<https://leetcode.com/problems/html-entity-parser>)|Medium|53.6%|[revision.java](<[1410] HTML Entity Parser/revision.java>)|||Hashing|2023/09/03 19:18:07|
 |[\[141\] Linked List Cycle](<https://leetcode.com/problems/linked-list-cycle>)|Easy|47.2%|[o(1) space.java](<[141] Linked List Cycle/o(1) space.java>)|O(n)|O(1)|Special trick to achieve O(1) space.|2023/09/03 18:29:28|
